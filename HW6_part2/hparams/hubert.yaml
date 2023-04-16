@@ -1,0 +1,73 @@
+# Experiment params
+project: asr
+experiment: hubert
+save_root: ./save
+time_stamp: placehold
+save_folder: !ref <save_root>/<experiment>/<time_stamp>
+
+# Training params
+n_epoch: 20
+batch_size: 8
+lr: 1.0e-4
+
+hubert_path: 'facebook/hubert-large-ls960-ft'
+
+# Feature params
+sample_rate: 16000
+
+# Outputs
+blank_index: 0
+pad_index: 0
+bos_index: 1
+eos_index: 2
+
+# Training loss
+ctc_weight: 1
+loss_reduction: 'batchmean'
+
+log_softmax: !new:torch.nn.LogSoftmax
+    dim: -1
+
+ctc_cost: !name:speechbrain.nnet.losses.ctc_loss
+    blank_index: !ref <blank_index>
+    reduction: !ref <loss_reduction>
+
+
+# Train/Valid/Test Splits
+train_split: 'train-clean-5'
+train_manifest_path: !ref manifests/<train_split>.json
+n_train: null
+
+valid_split: 'dev-clean-2'
+valid_manifest_path: !ref manifests/<valid_split>.json
+n_valid: 100
+
+test_split: 'test-clean'
+test_manifest_path: !ref manifests/<test_split>.json
+n_test: 100
+
+# Optimizer
+opt_class: !name:torch.optim.Adam
+    lr: !ref <lr>
+
+# Dataloader options
+train_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+valid_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+test_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
+    limit: !ref <n_epoch>
+   
+# Checkpoint
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+   checkpoints_dir: !ref <save_folder>
+   
+# WER and ACC
+wer_computer: !name:speechbrain.utils.metric_stats.ErrorRateStats
+cer_computer: !name:speechbrain.utils.metric_stats.ErrorRateStats
+   split_tokens: True

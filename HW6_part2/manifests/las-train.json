@@ -1,0 +1,3602 @@
+{
+    "6930-81414-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0005.flac",
+        "words": "WHAT WAS THAT",
+        "spkID": "speaker_6930",
+        "length": 29040
+    },
+    "8463-294825-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0018.flac",
+        "words": "METER ROUGHLY ONE YARD THREE INCHES",
+        "spkID": "speaker_8463",
+        "length": 46960
+    },
+    "5683-32865-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0003.flac",
+        "words": "THEY ARE COUSINS YOU KNOW WE ARE ALL COUSINS",
+        "spkID": "speaker_5683",
+        "length": 56160
+    },
+    "8555-284449-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284449/8555-284449-0005.flac",
+        "words": "WHEN HE FINISHED SHE SAID CHEERFULLY",
+        "spkID": "speaker_8555",
+        "length": 40880
+    },
+    "4970-29093-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0008.flac",
+        "words": "HE WANTED TO BEGIN AT THE TOP OF THE LADDER",
+        "spkID": "speaker_4970",
+        "length": 57280
+    },
+    "4970-29095-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0014.flac",
+        "words": "WHERE THEE AND THY FAMILY ARE KNOWN",
+        "spkID": "speaker_4970",
+        "length": 52160
+    },
+    "5683-32865-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0014.flac",
+        "words": "HE'S NOT A MAN FOR COUNTRY QUARTERS",
+        "spkID": "speaker_5683",
+        "length": 41840
+    },
+    "121-121726-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0002.flac",
+        "words": "ANGOR PAIN PAINFUL TO HEAR",
+        "spkID": "speaker_121",
+        "length": 70560
+    },
+    "5142-36377-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36377/5142-36377-0012.flac",
+        "words": "MAKE ACQUAINTANCE WITH MISTER JAGO SIT TOGETHER",
+        "spkID": "speaker_5142",
+        "length": 43440
+    },
+    "4446-2273-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0031.flac",
+        "words": "THERE JUST IN FRONT",
+        "spkID": "speaker_4446",
+        "length": 28720
+    },
+    "61-70968-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0021.flac",
+        "words": "SURELY WE CAN SUBMIT WITH GOOD GRACE",
+        "spkID": "speaker_61",
+        "length": 43040
+    },
+    "1580-141084-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0020.flac",
+        "words": "LOOK AT THAT HE HELD OUT HIS HAND",
+        "spkID": "speaker_1580",
+        "length": 45760
+    },
+    "121-121726-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0004.flac",
+        "words": "HEAVEN A GOOD PLACE TO BE RAISED TO",
+        "spkID": "speaker_121",
+        "length": 64320
+    },
+    "7127-75947-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0006.flac",
+        "words": "THE PRINCESS INQUIRED NO",
+        "spkID": "speaker_7127",
+        "length": 52960
+    },
+    "237-134500-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0025.flac",
+        "words": "OH EMIL",
+        "spkID": "speaker_237",
+        "length": 26080
+    },
+    "3729-6852-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0015.flac",
+        "words": "AT YOUR SERVICE SIR",
+        "spkID": "speaker_3729",
+        "length": 41760
+    },
+    "5142-33396-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0020.flac",
+        "words": "A HOUSE SMELLS OF SMOKE A SHIP SMELLS OF FROLIC",
+        "spkID": "speaker_5142",
+        "length": 53040
+    },
+    "672-122797-0065": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0065.flac",
+        "words": "NOW THAT TOO IS OVER",
+        "spkID": "speaker_672",
+        "length": 48480
+    },
+    "6829-68771-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68771/6829-68771-0017.flac",
+        "words": "THE HOUSEKEEPER LED THE WAY AND BETH FOLLOWED",
+        "spkID": "speaker_6829",
+        "length": 38240
+    },
+    "4970-29095-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0015.flac",
+        "words": "IF I CAN GET PATIENTS",
+        "spkID": "speaker_4970",
+        "length": 37760
+    },
+    "2830-3980-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0009.flac",
+        "words": "PAUL AN APOSTLE NOT OF MEN ET CETERA",
+        "spkID": "speaker_2830",
+        "length": 62160
+    },
+    "237-134500-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0009.flac",
+        "words": "I SUPPOSE THAT'S THE WET SEASON TOO THEN",
+        "spkID": "speaker_237",
+        "length": 35520
+    },
+    "6829-68769-0037": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0037.flac",
+        "words": "I'VE SEEN LOTS OF THAT KIND IN MY DAY",
+        "spkID": "speaker_6829",
+        "length": 40480
+    },
+    "2961-961-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/2961/961/2961-961-0003.flac",
+        "words": "I WILL IF TIMAEUS APPROVES I APPROVE",
+        "spkID": "speaker_2961",
+        "length": 75680
+    },
+    "1580-141084-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0005.flac",
+        "words": "THAT IS VERY IMPORTANT SAID HOLMES",
+        "spkID": "speaker_1580",
+        "length": 40240
+    },
+    "5142-36586-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36586/5142-36586-0004.flac",
+        "words": "EFFECTS OF THE INCREASED USE AND DISUSE OF PARTS",
+        "spkID": "speaker_5142",
+        "length": 57040
+    },
+    "5639-40744-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/5639/40744/5639-40744-0009.flac",
+        "words": "MOTHER DEAR FATHER DO YOU HEAR ME",
+        "spkID": "speaker_5639",
+        "length": 38000
+    },
+    "908-31957-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/908/31957/908-31957-0000.flac",
+        "words": "ALL IS SAID WITHOUT A WORD",
+        "spkID": "speaker_908",
+        "length": 34000
+    },
+    "4446-2273-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0012.flac",
+        "words": "THANK YOU BUT I DON'T LIKE IT SO WELL AS THIS",
+        "spkID": "speaker_4446",
+        "length": 47680
+    },
+    "260-123440-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0017.flac",
+        "words": "THAT WILL BE A QUEER THING TO BE SURE",
+        "spkID": "speaker_260",
+        "length": 49120
+    },
+    "7176-88083-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/88083/7176-88083-0015.flac",
+        "words": "ALMOST INSTANTLY HE WAS FORCED TO THE TOP",
+        "spkID": "speaker_7176",
+        "length": 37360
+    },
+    "2830-3979-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3979/2830-3979-0004.flac",
+        "words": "IT WAS WRITTEN IN LATIN",
+        "spkID": "speaker_2830",
+        "length": 31120
+    },
+    "4446-2275-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0018.flac",
+        "words": "I GET NOTHING BUT MISERY OUT OF EITHER",
+        "spkID": "speaker_4446",
+        "length": 37040
+    },
+    "1995-1837-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0013.flac",
+        "words": "THEN HE LOOKED DOWN THE LAGOON WAS DRY",
+        "spkID": "speaker_1995",
+        "length": 51120
+    },
+    "7176-92135-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0030.flac",
+        "words": "ENTER LORD ARTHUR FLUFFINOSE",
+        "spkID": "speaker_7176",
+        "length": 35760
+    },
+    "2094-142345-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0020.flac",
+        "words": "THAT'S WHAT YOU'D LIKE TO BE DOING IS IT",
+        "spkID": "speaker_2094",
+        "length": 38960
+    },
+    "1580-141083-0048": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0048.flac",
+        "words": "HOW CAME YOU TO LEAVE THE KEY IN THE DOOR",
+        "spkID": "speaker_1580",
+        "length": 44560
+    },
+    "1284-1180-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1180/1284-1180-0027.flac",
+        "words": "YET THAT TASK WAS NOT SO EASY AS YOU MAY SUPPOSE",
+        "spkID": "speaker_1284",
+        "length": 52320
+    },
+    "3729-6852-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0030.flac",
+        "words": "IS IT BETTER THAN ANYWHERE ELSE",
+        "spkID": "speaker_3729",
+        "length": 45440
+    },
+    "1580-141084-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0043.flac",
+        "words": "HE PUT HIS SHOES ON THE TABLE",
+        "spkID": "speaker_1580",
+        "length": 33040
+    },
+    "4446-2275-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0044.flac",
+        "words": "DON'T CRY DON'T CRY HE WHISPERED",
+        "spkID": "speaker_4446",
+        "length": 41840
+    },
+    "4446-2273-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0026.flac",
+        "words": "HAVE I TOLD YOU ABOUT MY NEW PLAY",
+        "spkID": "speaker_4446",
+        "length": 31200
+    },
+    "2830-3980-0040": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0040.flac",
+        "words": "THE GREETING OF THE APOSTLE IS REFRESHING",
+        "spkID": "speaker_2830",
+        "length": 41920
+    },
+    "672-122797-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0029.flac",
+        "words": "HOW IT WILL SHINE THIS EVENING",
+        "spkID": "speaker_672",
+        "length": 48800
+    },
+    "2300-131720-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/2300/131720/2300-131720-0039.flac",
+        "words": "THE PROBLEM WAS SOLVED",
+        "spkID": "speaker_2300",
+        "length": 38160
+    },
+    "260-123288-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0004.flac",
+        "words": "THE AIR IS HEAVY THE SEA IS CALM",
+        "spkID": "speaker_260",
+        "length": 68960
+    },
+    "6829-68769-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0047.flac",
+        "words": "I HAVE MY OWN REASONS MISTER MARSHALL",
+        "spkID": "speaker_6829",
+        "length": 37200
+    },
+    "7021-85628-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0016.flac",
+        "words": "THAT IS A VERY FINE CAP YOU HAVE HE SAID",
+        "spkID": "speaker_7021",
+        "length": 68480
+    },
+    "3729-6852-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0012.flac",
+        "words": "I SHALL CALL YOU ESPRIT",
+        "spkID": "speaker_3729",
+        "length": 45760
+    },
+    "6829-68769-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0038.flac",
+        "words": "AND IT RUINS A MAN'S DISPOSITION",
+        "spkID": "speaker_6829",
+        "length": 40080
+    },
+    "7021-79730-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/79730/7021-79730-0002.flac",
+        "words": "BY REASON AND AFFECTION",
+        "spkID": "speaker_7021",
+        "length": 43040
+    },
+    "1580-141083-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0039.flac",
+        "words": "AND THEY ARE ALL IN FOR THIS EXAMINATION YES",
+        "spkID": "speaker_1580",
+        "length": 59600
+    },
+    "6930-76324-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/76324/6930-76324-0000.flac",
+        "words": "GOLIATH MAKES ANOTHER DISCOVERY",
+        "spkID": "speaker_6930",
+        "length": 48400
+    },
+    "6930-81414-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0010.flac",
+        "words": "A SOUND OF VOICES A FLASH OF LIGHT",
+        "spkID": "speaker_6930",
+        "length": 61360
+    },
+    "2094-142345-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0031.flac",
+        "words": "AND SHE WAS VERY FOND OF YOU TOO AUNT RACHEL",
+        "spkID": "speaker_2094",
+        "length": 44480
+    },
+    "1580-141083-0049": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0049.flac",
+        "words": "ANYONE IN THE ROOM COULD GET OUT YES SIR",
+        "spkID": "speaker_1580",
+        "length": 61521
+    },
+    "8455-210777-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0010.flac",
+        "words": "THEIR MASTERS SAID MISSUS NEVERBEND",
+        "spkID": "speaker_8455",
+        "length": 49600
+    },
+    "3575-170457-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0004.flac",
+        "words": "WE USED TO DISPUTE ABOUT POLITICS AND RELIGION",
+        "spkID": "speaker_3575",
+        "length": 49680
+    },
+    "672-122797-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0014.flac",
+        "words": "WERE I BUT ALREADY ON THE CART",
+        "spkID": "speaker_672",
+        "length": 40880
+    },
+    "61-70968-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0038.flac",
+        "words": "ROBIN FITZOOTH",
+        "spkID": "speaker_61",
+        "length": 32800
+    },
+    "1995-1837-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0002.flac",
+        "words": "AH THE SWAMP THE CRUEL SWAMP",
+        "spkID": "speaker_1995",
+        "length": 44640
+    },
+    "2094-142345-0060": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0060.flac",
+        "words": "OH I'VE NO DOUBT IT'S IN CAPITAL ORDER",
+        "spkID": "speaker_2094",
+        "length": 43360
+    },
+    "1284-1181-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1181/1284-1181-0000.flac",
+        "words": "OJO EXAMINED THIS CURIOUS CONTRIVANCE WITH WONDER",
+        "spkID": "speaker_1284",
+        "length": 63440
+    },
+    "1580-141084-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0017.flac",
+        "words": "NO GOOD MY DEAR WATSON",
+        "spkID": "speaker_1580",
+        "length": 32000
+    },
+    "5142-36600-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36600/5142-36600-0000.flac",
+        "words": "CHAPTER SEVEN ON THE RACES OF MAN",
+        "spkID": "speaker_5142",
+        "length": 40400
+    },
+    "4507-16021-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0036.flac",
+        "words": "FACTS FORM ONE OF THESE AND IDEAS THE OTHER",
+        "spkID": "speaker_4507",
+        "length": 86960
+    },
+    "6930-76324-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/76324/6930-76324-0007.flac",
+        "words": "NOW WHAT HAVE YOU TO SAY CYNTHIA SPRAGUE",
+        "spkID": "speaker_6930",
+        "length": 45120
+    },
+    "1580-141084-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0038.flac",
+        "words": "NO ONE LESS THAN THAT WOULD HAVE A CHANCE",
+        "spkID": "speaker_1580",
+        "length": 47280
+    },
+    "2830-3980-0045": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0045.flac",
+        "words": "MEN SHOULD NOT SPECULATE ABOUT THE NATURE OF GOD",
+        "spkID": "speaker_2830",
+        "length": 56160
+    },
+    "2094-142345-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0022.flac",
+        "words": "MISTER OTTLEY'S INDEED",
+        "spkID": "speaker_2094",
+        "length": 36480
+    },
+    "1089-134691-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0010.flac",
+        "words": "BROTHER MAC ARDLE BROTHER KEOGH",
+        "spkID": "speaker_1089",
+        "length": 51120
+    },
+    "7176-92135-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0010.flac",
+        "words": "HAM TO BE OR NOT TO BE",
+        "spkID": "speaker_7176",
+        "length": 34560
+    },
+    "4507-16021-0041": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0041.flac",
+        "words": "IT IS UNINTELLIGIBLE IN THE DARK",
+        "spkID": "speaker_4507",
+        "length": 47600
+    },
+    "1995-1837-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0020.flac",
+        "words": "THE YEARS OF THE DAYS OF HER DYING WERE TEN",
+        "spkID": "speaker_1995",
+        "length": 51360
+    },
+    "8455-210777-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0029.flac",
+        "words": "THINKING OF ALL THIS I WENT TO SLEEP",
+        "spkID": "speaker_8455",
+        "length": 49360
+    },
+    "1580-141083-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0011.flac",
+        "words": "A BROKEN TIP OF LEAD WAS LYING THERE ALSO",
+        "spkID": "speaker_1580",
+        "length": 45200
+    },
+    "4446-2275-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0003.flac",
+        "words": "THE ROOM WAS EMPTY WHEN HE ENTERED",
+        "spkID": "speaker_4446",
+        "length": 32960
+    },
+    "4446-2275-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0025.flac",
+        "words": "WEREN'T YOU HAPPY THEN AT ALL",
+        "spkID": "speaker_4446",
+        "length": 34560
+    },
+    "4507-16021-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0004.flac",
+        "words": "WHAT IS SLANG",
+        "spkID": "speaker_4507",
+        "length": 34160
+    },
+    "237-134500-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0007.flac",
+        "words": "WE NEVER HAD SO MANY OF THEM IN HERE BEFORE",
+        "spkID": "speaker_237",
+        "length": 38240
+    },
+    "260-123288-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0019.flac",
+        "words": "AT NOON THE VIOLENCE OF THE STORM REDOUBLES",
+        "spkID": "speaker_260",
+        "length": 47280
+    },
+    "5142-33396-0045": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0045.flac",
+        "words": "THIS IS OUR LAST FEAST WITH YOU I SAID",
+        "spkID": "speaker_5142",
+        "length": 38160
+    },
+    "1580-141083-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0014.flac",
+        "words": "TO THE BEST OF MY BELIEF THEY WERE ROLLED UP",
+        "spkID": "speaker_1580",
+        "length": 45680
+    },
+    "5105-28241-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28241/5105-28241-0014.flac",
+        "words": "ANOTHER CIRCUMSTANCE WAS MOST REMARKABLE",
+        "spkID": "speaker_5105",
+        "length": 47920
+    },
+    "2094-142345-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0044.flac",
+        "words": "SAID MISTER IRWINE WITH HIS STATELY CORDIALITY",
+        "spkID": "speaker_2094",
+        "length": 56320
+    },
+    "6829-68769-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0029.flac",
+        "words": "IT'S A STOCK COMPANY AND RICH",
+        "spkID": "speaker_6829",
+        "length": 32640
+    },
+    "1089-134686-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0033.flac",
+        "words": "A GREAT SAINT SAINT FRANCIS XAVIER",
+        "spkID": "speaker_1089",
+        "length": 53280
+    },
+    "4446-2275-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0014.flac",
+        "words": "I CAN'T STAND SEEING YOU MISERABLE",
+        "spkID": "speaker_4446",
+        "length": 40160
+    },
+    "4992-41797-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/41797/4992-41797-0003.flac",
+        "words": "MISTER POPHAM LAID DOWN HIS BRUSH",
+        "spkID": "speaker_4992",
+        "length": 45360
+    },
+    "8463-294828-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0024.flac",
+        "words": "WE DON'T KNOW WHERE IT WILL TAKE US",
+        "spkID": "speaker_8463",
+        "length": 31600
+    },
+    "6930-75918-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0010.flac",
+        "words": "I CAN PERCEIVE LOVE CLEARLY ENOUGH",
+        "spkID": "speaker_6930",
+        "length": 48560
+    },
+    "260-123440-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0009.flac",
+        "words": "I SHALL NEVER GET TO TWENTY AT THAT RATE",
+        "spkID": "speaker_260",
+        "length": 49840
+    },
+    "1188-133604-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0029.flac",
+        "words": "ONLY THERE ARE TWO SORTS OF CLOUD AND FIRE",
+        "spkID": "speaker_1188",
+        "length": 59280
+    },
+    "1320-122612-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/1320/122612/1320-122612-0014.flac",
+        "words": "THE EXAMINATION HOWEVER RESULTED IN NO DISCOVERY",
+        "spkID": "speaker_1320",
+        "length": 56240
+    },
+    "1580-141083-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0043.flac",
+        "words": "THE TOP FLOOR BELONGS TO MILES MC LAREN",
+        "spkID": "speaker_1580",
+        "length": 43840
+    },
+    "8455-210777-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0026.flac",
+        "words": "AND THE DEATH OF WHICH I DREAMT COULD NOT ALAS",
+        "spkID": "speaker_8455",
+        "length": 48000
+    },
+    "4992-23283-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/23283/4992-23283-0006.flac",
+        "words": "PERHAPS I AM MISTAKEN ANSWERED SHE",
+        "spkID": "speaker_4992",
+        "length": 47440
+    },
+    "4507-16021-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0043.flac",
+        "words": "THE EARTH IS NOT DEVOID OF RESEMBLANCE TO A JAIL",
+        "spkID": "speaker_4507",
+        "length": 63840
+    },
+    "4446-2271-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2271/4446-2271-0015.flac",
+        "words": "A LITTLE ATTACK OF NERVES POSSIBLY",
+        "spkID": "speaker_4446",
+        "length": 41520
+    },
+    "7176-92135-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0021.flac",
+        "words": "I SAY I'VE BEEN WONDERING ABOUT THIS BUSINESS",
+        "spkID": "speaker_7176",
+        "length": 41040
+    },
+    "1221-135766-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135766/1221-135766-0013.flac",
+        "words": "PEARL WAS A BORN OUTCAST OF THE INFANTILE WORLD",
+        "spkID": "speaker_1221",
+        "length": 58320
+    },
+    "1089-134686-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0003.flac",
+        "words": "HELLO BERTIE ANY GOOD IN YOUR MIND",
+        "spkID": "speaker_1089",
+        "length": 42880
+    },
+    "2830-3980-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0033.flac",
+        "words": "NOT ALL THE GALATIANS HAD BECOME PERVERTED",
+        "spkID": "speaker_2830",
+        "length": 43360
+    },
+    "4446-2273-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0030.flac",
+        "words": "ALEXANDER WENT OVER AND OPENED THE WINDOW FOR HER",
+        "spkID": "speaker_4446",
+        "length": 46160
+    },
+    "1580-141084-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0012.flac",
+        "words": "THE FOUL MOUTHED FELLOW AT THE TOP",
+        "spkID": "speaker_1580",
+        "length": 39760
+    },
+    "5683-32865-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0006.flac",
+        "words": "AT DINNER LAKE WAS EASY AND AMUSING",
+        "spkID": "speaker_5683",
+        "length": 53600
+    },
+    "1995-1837-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0010.flac",
+        "words": "PERHAPS SHE TOO MIGHT BE THERE WAITING WEEPING",
+        "spkID": "speaker_1995",
+        "length": 55680
+    },
+    "1089-134686-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0030.flac",
+        "words": "BEWARE OF MAKING THAT MISTAKE",
+        "spkID": "speaker_1089",
+        "length": 43440
+    },
+    "61-70968-0051": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0051.flac",
+        "words": "BEG ME A ROOM OF THE SHERIFF CHILD QUICKLY",
+        "spkID": "speaker_61",
+        "length": 50160
+    },
+    "61-70968-0058": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0058.flac",
+        "words": "WILL YOU FORGIVE ME NOW",
+        "spkID": "speaker_61",
+        "length": 29120
+    },
+    "237-134500-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0027.flac",
+        "words": "MARIE'S FACE FELL UNDER HIS BROODING GAZE",
+        "spkID": "speaker_237",
+        "length": 52320
+    },
+    "5142-33396-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0030.flac",
+        "words": "THE THRALLS WERE BRINGING IN A GREAT POT OF MEAT",
+        "spkID": "speaker_5142",
+        "length": 44240
+    },
+    "6930-81414-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0002.flac",
+        "words": "ONWARD SAID A DISTANT VOICE",
+        "spkID": "speaker_6930",
+        "length": 52880
+    },
+    "2830-3979-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3979/2830-3979-0012.flac",
+        "words": "THE WORD OF OUR GOD SHALL STAND FOREVER",
+        "spkID": "speaker_2830",
+        "length": 58000
+    },
+    "1320-122617-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/1320/122617/1320-122617-0038.flac",
+        "words": "WILL THE HURONS HEAR HIS GROANS",
+        "spkID": "speaker_1320",
+        "length": 35840
+    },
+    "4992-41806-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/41806/4992-41806-0010.flac",
+        "words": "AIN'T THEY THE GREATEST",
+        "spkID": "speaker_4992",
+        "length": 34240
+    },
+    "1995-1826-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0025.flac",
+        "words": "SOME TIME YOU'LL TELL ME PLEASE WON'T YOU",
+        "spkID": "speaker_1995",
+        "length": 52720
+    },
+    "237-134500-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0001.flac",
+        "words": "MARIE SIGHED",
+        "spkID": "speaker_237",
+        "length": 28960
+    },
+    "2830-3980-0049": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0049.flac",
+        "words": "EMBRACE HIM AND FORGET ABOUT THE NATURE OF GOD",
+        "spkID": "speaker_2830",
+        "length": 54720
+    },
+    "2094-142345-0040": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0040.flac",
+        "words": "I DIDN'T PREACH WITHOUT DIRECTION",
+        "spkID": "speaker_2094",
+        "length": 38160
+    },
+    "8455-210777-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0020.flac",
+        "words": "OH YES SAID JACK AND I'M NOWHERE",
+        "spkID": "speaker_8455",
+        "length": 50480
+    },
+    "8555-292519-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/292519/8555-292519-0014.flac",
+        "words": "SHE WAS ALONE THAT NIGHT",
+        "spkID": "speaker_8555",
+        "length": 38960
+    },
+    "8463-294828-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0016.flac",
+        "words": "DID MASTER SUMMON ME HE SAID ENTERING",
+        "spkID": "speaker_8463",
+        "length": 52720
+    },
+    "2094-142345-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0047.flac",
+        "words": "POYSER IS NOT AT HOME IS HE",
+        "spkID": "speaker_2094",
+        "length": 35360
+    },
+    "672-122797-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0024.flac",
+        "words": "THE DEPARTURE WAS NOT AT ALL AGREEABLE",
+        "spkID": "speaker_672",
+        "length": 66080
+    },
+    "2094-142345-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0019.flac",
+        "words": "COMB THE WOOL FOR THE WHITTAWS INDEED",
+        "spkID": "speaker_2094",
+        "length": 42560
+    },
+    "237-134493-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134493/237-134493-0010.flac",
+        "words": "I NEVER SEE LOU'S SCYTHE OVER HERE",
+        "spkID": "speaker_237",
+        "length": 46000
+    },
+    "2830-3980-0070": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0070.flac",
+        "words": "BUT WE ARE CARELESS WE MAKE LIGHT OF SIN",
+        "spkID": "speaker_2830",
+        "length": 59680
+    },
+    "4507-16021-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0002.flac",
+        "words": "THUS IDLENESS IS THE MOTHER",
+        "spkID": "speaker_4507",
+        "length": 50960
+    },
+    "5683-32866-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0003.flac",
+        "words": "IN THE MEANTIME I HAD FORMED A NEW IDEA OF HER",
+        "spkID": "speaker_5683",
+        "length": 45840
+    },
+    "5105-28240-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28240/5105-28240-0020.flac",
+        "words": "THE COUNT SHOOK HIS HEAD",
+        "spkID": "speaker_5105",
+        "length": 36800
+    },
+    "2094-142345-0045": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0045.flac",
+        "words": "OH SIR DON'T MENTION IT SAID MISSUS POYSER",
+        "spkID": "speaker_2094",
+        "length": 48080
+    },
+    "1089-134691-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0019.flac",
+        "words": "A VOICE FROM BEYOND THE WORLD WAS CALLING",
+        "spkID": "speaker_1089",
+        "length": 50480
+    },
+    "2830-3980-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0034.flac",
+        "words": "THESE MEANS CANNOT BE CONTAMINATED",
+        "spkID": "speaker_2830",
+        "length": 47520
+    },
+    "5683-32866-0023": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0023.flac",
+        "words": "ALL THE FURNITURE BELONGED TO OTHER TIMES",
+        "spkID": "speaker_5683",
+        "length": 43920
+    },
+    "4970-29093-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0016.flac",
+        "words": "NO ITS NOT TOO SOON",
+        "spkID": "speaker_4970",
+        "length": 35680
+    },
+    "672-122797-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0039.flac",
+        "words": "I WON'T TREMBLE TO MORROW THOUGHT THE FIR TREE",
+        "spkID": "speaker_672",
+        "length": 64400
+    },
+    "6930-75918-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0013.flac",
+        "words": "IN THOSE VERY TERMS I EVEN ADDED MORE",
+        "spkID": "speaker_6930",
+        "length": 47040
+    },
+    "7127-75946-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0011.flac",
+        "words": "YOU WILL TAKE THEM FROM MY PRIVATE TREASURE",
+        "spkID": "speaker_7127",
+        "length": 50720
+    },
+    "8463-287645-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/287645/8463-287645-0014.flac",
+        "words": "OF STARTING I DIDN'T KNOW THE WAY TO COME",
+        "spkID": "speaker_8463",
+        "length": 48320
+    },
+    "672-122797-0059": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0059.flac",
+        "words": "ONLY THAT ONE ANSWERED THE TREE",
+        "spkID": "speaker_672",
+        "length": 56320
+    },
+    "4507-16021-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0015.flac",
+        "words": "SINCE WHEN HAS MALADY BANISHED MEDICINE",
+        "spkID": "speaker_4507",
+        "length": 61760
+    },
+    "237-134493-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134493/237-134493-0008.flac",
+        "words": "SHE GATHERED UP HER REINS",
+        "spkID": "speaker_237",
+        "length": 36880
+    },
+    "8230-279154-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/8230/279154/8230-279154-0003.flac",
+        "words": "AND WHAT SORT OF EVIDENCE IS LOGICALLY POSSIBLE",
+        "spkID": "speaker_8230",
+        "length": 51120
+    },
+    "5142-36377-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36377/5142-36377-0019.flac",
+        "words": "WHEN I ADDRESSED HIM HE ANSWERED CONSTRAINEDLY",
+        "spkID": "speaker_5142",
+        "length": 38640
+    },
+    "1580-141084-0050": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0050.flac",
+        "words": "IF MISTER SOAMES SAW THEM THE GAME WAS UP",
+        "spkID": "speaker_1580",
+        "length": 44480
+    },
+    "2094-142345-0042": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0042.flac",
+        "words": "I HANNA COMMON PATIENCE WITH YOU",
+        "spkID": "speaker_2094",
+        "length": 39280
+    },
+    "5142-33396-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0005.flac",
+        "words": "BUT I STAYED THAT SPRING AND BUILT ME A BOAT",
+        "spkID": "speaker_5142",
+        "length": 35600
+    },
+    "1995-1836-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1836/1995-1836-0002.flac",
+        "words": "WHY SHOULD HE NOT BE AS OTHER MEN",
+        "spkID": "speaker_1995",
+        "length": 37040
+    },
+    "1995-1837-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0017.flac",
+        "words": "HE GAZED ABOUT PERPLEXED ASTONISHED",
+        "spkID": "speaker_1995",
+        "length": 49600
+    },
+    "6829-68769-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0043.flac",
+        "words": "AND HE DESERVES A TERM IN STATE'S PRISON",
+        "spkID": "speaker_6829",
+        "length": 41440
+    },
+    "1995-1837-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0021.flac",
+        "words": "THE HOPE AND DREAM OF HARVEST WAS UPON THE LAND",
+        "spkID": "speaker_1995",
+        "length": 49440
+    },
+    "61-70970-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0017.flac",
+        "words": "REST AND BE STILL UNTIL I WARN YOU",
+        "spkID": "speaker_61",
+        "length": 40800
+    },
+    "1089-134691-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0024.flac",
+        "words": "STEPHANOS DEDALOS",
+        "spkID": "speaker_1089",
+        "length": 35440
+    },
+    "8463-294828-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0026.flac",
+        "words": "WE HAVE A COMMANDER WHO'S GAME FOR ANYTHING",
+        "spkID": "speaker_8463",
+        "length": 43920
+    },
+    "61-70968-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0036.flac",
+        "words": "GEORGE MONTFICHET WILL NEVER FORGET THIS DAY",
+        "spkID": "speaker_61",
+        "length": 46959
+    },
+    "7127-75947-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0012.flac",
+        "words": "INDEED AH",
+        "spkID": "speaker_7127",
+        "length": 26960
+    },
+    "1580-141083-0053": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0053.flac",
+        "words": "YOU HAVEN'T SEEN ANY OF THEM NO SIR",
+        "spkID": "speaker_1580",
+        "length": 64240
+    },
+    "5683-32865-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0000.flac",
+        "words": "YOU KNOW CAPTAIN LAKE",
+        "spkID": "speaker_5683",
+        "length": 35040
+    },
+    "237-126133-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/237/126133/237-126133-0020.flac",
+        "words": "HOW DID HER MOTHER EVER LET HER GO",
+        "spkID": "speaker_237",
+        "length": 35840
+    },
+    "8463-294828-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0021.flac",
+        "words": "A ROUTE SLIGHTLY LESS DIRECT THAT'S ALL",
+        "spkID": "speaker_8463",
+        "length": 43760
+    },
+    "6930-81414-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0011.flac",
+        "words": "A FEELING OF FREEDOM AND I WAS AWAKE WHERE",
+        "spkID": "speaker_6930",
+        "length": 75200
+    },
+    "5142-33396-0055": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0055.flac",
+        "words": "THAT TIME IT POINTED US INTO YOUR FATHER'S SHIPS",
+        "spkID": "speaker_5142",
+        "length": 44320
+    },
+    "5683-32879-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32879/5683-32879-0008.flac",
+        "words": "YOU HAVE BEEN SO ILL MY POOR RACHEL",
+        "spkID": "speaker_5683",
+        "length": 47200
+    },
+    "8463-294828-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0004.flac",
+        "words": "BUT NOW NOTHING COULD HOLD ME BACK",
+        "spkID": "speaker_8463",
+        "length": 37440
+    },
+    "2094-142345-0046": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0046.flac",
+        "words": "I DELIGHT IN YOUR KITCHEN",
+        "spkID": "speaker_2094",
+        "length": 30480
+    },
+    "4970-29095-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0000.flac",
+        "words": "SHE WAS TIRED OF OTHER THINGS",
+        "spkID": "speaker_4970",
+        "length": 45840
+    },
+    "8463-294825-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0011.flac",
+        "words": "HE'S SWIFTLY PUNISHED",
+        "spkID": "speaker_8463",
+        "length": 34879
+    },
+    "8463-294828-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0018.flac",
+        "words": "WE'LL DEAL WITH THEM LATER WHAT",
+        "spkID": "speaker_8463",
+        "length": 47120
+    },
+    "237-126133-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/237/126133/237-126133-0016.flac",
+        "words": "OH NO JASPER I MUST GO BY MY VERY OWN SELF",
+        "spkID": "speaker_237",
+        "length": 68000
+    },
+    "2830-3980-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0035.flac",
+        "words": "THEY REMAIN DIVINE REGARDLESS OF MEN'S OPINION",
+        "spkID": "speaker_2830",
+        "length": 53360
+    },
+    "6930-76324-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/76324/6930-76324-0019.flac",
+        "words": "NOW LET'S DUST THE FURNITURE AND PICTURES",
+        "spkID": "speaker_6930",
+        "length": 41200
+    },
+    "6829-68769-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0013.flac",
+        "words": "MAY WE SEE GATES AT ONCE ASKED KENNETH",
+        "spkID": "speaker_6829",
+        "length": 43600
+    },
+    "8455-210777-0068": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0068.flac",
+        "words": "YOUR POWER IS SUFFICIENT I SAID",
+        "spkID": "speaker_8455",
+        "length": 41440
+    },
+    "672-122797-0049": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0049.flac",
+        "words": "SQUEAK SQUEAK",
+        "spkID": "speaker_672",
+        "length": 32320
+    },
+    "2094-142345-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0026.flac",
+        "words": "SHE'S GOING TO PUT THE IRONING THINGS AWAY",
+        "spkID": "speaker_2094",
+        "length": 45200
+    },
+    "237-134500-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0005.flac",
+        "words": "OH BUT I'M GLAD TO GET THIS PLACE MOWED",
+        "spkID": "speaker_237",
+        "length": 38240
+    },
+    "8555-284447-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284447/8555-284447-0011.flac",
+        "words": "SUPPOSE IT'S A FRIEND",
+        "spkID": "speaker_8555",
+        "length": 31280
+    },
+    "5683-32866-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0026.flac",
+        "words": "I BOLDLY LIGHTED MY CHEROOT",
+        "spkID": "speaker_5683",
+        "length": 37440
+    },
+    "5142-33396-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0003.flac",
+        "words": "THE REST OF YOU OFF A VIKING HE HAD THREE SHIPS",
+        "spkID": "speaker_5142",
+        "length": 55520
+    },
+    "260-123440-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0000.flac",
+        "words": "AND HOW ODD THE DIRECTIONS WILL LOOK",
+        "spkID": "speaker_260",
+        "length": 34640
+    },
+    "8455-210777-0054": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0054.flac",
+        "words": "THE LETTER RAN AS FOLLOWS",
+        "spkID": "speaker_8455",
+        "length": 40320
+    },
+    "8455-210777-0049": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0049.flac",
+        "words": "LIEUTENANT CROSSTREES IS A VERY GALLANT OFFICER",
+        "spkID": "speaker_8455",
+        "length": 65760
+    },
+    "6930-81414-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0026.flac",
+        "words": "MY OVERWROUGHT NERVES YIELDED AT LAST",
+        "spkID": "speaker_6930",
+        "length": 49200
+    },
+    "2830-3980-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0015.flac",
+        "words": "FOR A PERSON TO POSSESS KNOWLEDGE IS NOT ENOUGH",
+        "spkID": "speaker_2830",
+        "length": 42960
+    },
+    "4970-29095-0023": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0023.flac",
+        "words": "I HAVE NOTHING TO WEAR REPLIED THAT DEMURE PERSON",
+        "spkID": "speaker_4970",
+        "length": 62480
+    },
+    "1580-141083-0052": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0052.flac",
+        "words": "OH I WOULD NOT VENTURE TO SAY SIR",
+        "spkID": "speaker_1580",
+        "length": 55200
+    },
+    "1995-1826-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0010.flac",
+        "words": "AT ANY RATE I SAY GO",
+        "spkID": "speaker_1995",
+        "length": 39120
+    },
+    "237-134500-0042": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0042.flac",
+        "words": "THEN ALL OUR GOOD TIMES ARE OVER",
+        "spkID": "speaker_237",
+        "length": 41200
+    },
+    "260-123440-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0005.flac",
+        "words": "AND YESTERDAY THINGS WENT ON JUST AS USUAL",
+        "spkID": "speaker_260",
+        "length": 49680
+    },
+    "4992-41806-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/41806/4992-41806-0005.flac",
+        "words": "NEXT CAME OLIVE'S TURN TO HELP IN THE CEREMONIES",
+        "spkID": "speaker_4992",
+        "length": 59680
+    },
+    "3575-170457-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0018.flac",
+        "words": "SIR MARCH SIXTEENTH",
+        "spkID": "speaker_3575",
+        "length": 46720
+    },
+    "121-127105-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0014.flac",
+        "words": "YOU ARE ACUTE",
+        "spkID": "speaker_121",
+        "length": 36080
+    },
+    "1580-141084-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0030.flac",
+        "words": "JUST CLOSE THE DOOR SAID HOLMES",
+        "spkID": "speaker_1580",
+        "length": 34320
+    },
+    "4970-29093-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0014.flac",
+        "words": "WELL I'M GOING AS AN ENGINEER YOU CAN GO AS ONE",
+        "spkID": "speaker_4970",
+        "length": 68400
+    },
+    "237-134493-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134493/237-134493-0007.flac",
+        "words": "ALEXANDRA LETS YOU SLEEP LATE",
+        "spkID": "speaker_237",
+        "length": 32560
+    },
+    "2830-3980-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0027.flac",
+        "words": "AND ALL THE BRETHREN WHICH ARE WITH ME",
+        "spkID": "speaker_2830",
+        "length": 36320
+    },
+    "908-31957-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/908/31957/908-31957-0010.flac",
+        "words": "O LOVE O TROTH",
+        "spkID": "speaker_908",
+        "length": 40160
+    },
+    "4446-2273-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0013.flac",
+        "words": "HAVE YOU BEEN IN PARIS MUCH THESE LATE YEARS",
+        "spkID": "speaker_4446",
+        "length": 42000
+    },
+    "6930-81414-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0018.flac",
+        "words": "I REMEMBER SAYING HAVE WE BEEN TOGETHER",
+        "spkID": "speaker_6930",
+        "length": 46880
+    },
+    "4507-16021-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0029.flac",
+        "words": "TO THIS WE REPLY IN ONE WORD ONLY",
+        "spkID": "speaker_4507",
+        "length": 61920
+    },
+    "1580-141084-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0044.flac",
+        "words": "GLOVES SAID THE YOUNG MAN",
+        "spkID": "speaker_1580",
+        "length": 46320
+    },
+    "1089-134686-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0001.flac",
+        "words": "STUFF IT INTO YOU HIS BELLY COUNSELLED HIM",
+        "spkID": "speaker_1089",
+        "length": 52400
+    },
+    "8463-294828-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0000.flac",
+        "words": "CHAPTER THREE AS MASTER WISHES",
+        "spkID": "speaker_8463",
+        "length": 57840
+    },
+    "1580-141084-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0019.flac",
+        "words": "YES MY DEAR WATSON I HAVE SOLVED THE MYSTERY",
+        "spkID": "speaker_1580",
+        "length": 50000
+    },
+    "4507-16021-0057": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0057.flac",
+        "words": "PEOPLE SUFFER IN THE LIGHT EXCESS BURNS",
+        "spkID": "speaker_4507",
+        "length": 73760
+    },
+    "3729-6852-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0021.flac",
+        "words": "I THANK HIM AND TAKE MY LEAVE",
+        "spkID": "speaker_3729",
+        "length": 47360
+    },
+    "1089-134686-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0035.flac",
+        "words": "HE HAD THE FAITH IN HIM THAT MOVES MOUNTAINS",
+        "spkID": "speaker_1089",
+        "length": 55120
+    },
+    "61-70968-0059": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0059.flac",
+        "words": "IT WILL BE NO DISAPPOINTMENT TO ME",
+        "spkID": "speaker_61",
+        "length": 34720
+    },
+    "908-31957-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/908/31957/908-31957-0011.flac",
+        "words": "AND LOVE BE FALSE",
+        "spkID": "speaker_908",
+        "length": 37360
+    },
+    "3729-6852-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0013.flac",
+        "words": "YOU DO ME A GREAT HONOUR",
+        "spkID": "speaker_3729",
+        "length": 52800
+    },
+    "4992-23283-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/23283/4992-23283-0002.flac",
+        "words": "SAID MISSUS HORTON A FEW MINUTES AFTER",
+        "spkID": "speaker_4992",
+        "length": 49920
+    },
+    "61-70968-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0039.flac",
+        "words": "AND MINE IS WILL STUTELEY SHALL WE BE COMRADES",
+        "spkID": "speaker_61",
+        "length": 60880
+    },
+    "7176-92135-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0035.flac",
+        "words": "THEN LORD TUPPENY WELL WHAT ABOUT AUCTION",
+        "spkID": "speaker_7176",
+        "length": 54080
+    },
+    "4446-2271-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2271/4446-2271-0007.flac",
+        "words": "SHE DOESN'T TAKE UP WITH ANYBODY YOU KNOW",
+        "spkID": "speaker_4446",
+        "length": 33600
+    },
+    "7127-75947-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0020.flac",
+        "words": "NO MORE THAN THE DANCING",
+        "spkID": "speaker_7127",
+        "length": 34800
+    },
+    "4507-16021-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0038.flac",
+        "words": "IN THIS GUISE IT BECOMES HORRIBLE",
+        "spkID": "speaker_4507",
+        "length": 62160
+    },
+    "1089-134686-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0036.flac",
+        "words": "A GREAT SAINT SAINT FRANCIS XAVIER",
+        "spkID": "speaker_1089",
+        "length": 52000
+    },
+    "61-70970-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0030.flac",
+        "words": "SAVE ME MASTERS BUT YOU STARTLED ME RARELY",
+        "spkID": "speaker_61",
+        "length": 51840
+    },
+    "1188-133604-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0030.flac",
+        "words": "HE KNOWS THEM BOTH",
+        "spkID": "speaker_1188",
+        "length": 30640
+    },
+    "8555-292519-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/292519/8555-292519-0002.flac",
+        "words": "VENICE",
+        "spkID": "speaker_8555",
+        "length": 28960
+    },
+    "4507-16021-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0024.flac",
+        "words": "ALGEBRA MEDICINE BOTANY HAVE EACH THEIR SLANG",
+        "spkID": "speaker_4507",
+        "length": 82240
+    },
+    "1580-141084-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0015.flac",
+        "words": "HE IMPRESSED ME AS BEING A PERFECTLY HONEST MAN",
+        "spkID": "speaker_1580",
+        "length": 55520
+    },
+    "4077-13751-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/4077/13751/4077-13751-0019.flac",
+        "words": "WHO BEGAN THE QUARREL WAS IT THE MORMONS",
+        "spkID": "speaker_4077",
+        "length": 46720
+    },
+    "4446-2275-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0039.flac",
+        "words": "I MUST KNOW ABOUT YOU",
+        "spkID": "speaker_4446",
+        "length": 30400
+    },
+    "672-122797-0060": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0060.flac",
+        "words": "IT IS A VERY STUPID STORY",
+        "spkID": "speaker_672",
+        "length": 53600
+    },
+    "1995-1837-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0006.flac",
+        "words": "THE WORLD WAS WATER VEILED IN MISTS",
+        "spkID": "speaker_1995",
+        "length": 47280
+    },
+    "4970-29095-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0012.flac",
+        "words": "AND BESIDES SUPPOSE THEE DOES LEARN MEDICINE",
+        "spkID": "speaker_4970",
+        "length": 74880
+    },
+    "8455-210777-0066": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0066.flac",
+        "words": "THEY OF COURSE MUST ALL BE ALTERED",
+        "spkID": "speaker_8455",
+        "length": 44160
+    },
+    "121-127105-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0016.flac",
+        "words": "PROBABLY NOT TILL THE SECOND POST",
+        "spkID": "speaker_121",
+        "length": 32480
+    },
+    "3575-170457-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0001.flac",
+        "words": "WHY ARE WE TO BE DENIED EACH OTHER'S SOCIETY",
+        "spkID": "speaker_3575",
+        "length": 47840
+    },
+    "5142-33396-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0013.flac",
+        "words": "HE IS BUT A BOY THE MEN SAID",
+        "spkID": "speaker_5142",
+        "length": 33760
+    },
+    "4992-41797-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/41797/4992-41797-0012.flac",
+        "words": "SHE IS WILD TO KNOW HOW TO DO THINGS",
+        "spkID": "speaker_4992",
+        "length": 43280
+    },
+    "1089-134691-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0000.flac",
+        "words": "HE COULD WAIT NO LONGER",
+        "spkID": "speaker_1089",
+        "length": 33360
+    },
+    "4446-2275-0037": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0037.flac",
+        "words": "OH BARTLEY WHAT AM I TO DO",
+        "spkID": "speaker_4446",
+        "length": 33440
+    },
+    "5142-33396-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0025.flac",
+        "words": "COME COME I CALLED WHEN NO ONE OBEYED A FIRE",
+        "spkID": "speaker_5142",
+        "length": 53120
+    },
+    "7127-75946-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0001.flac",
+        "words": "AH VERY WELL",
+        "spkID": "speaker_7127",
+        "length": 34720
+    },
+    "672-122797-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0033.flac",
+        "words": "A STORY",
+        "spkID": "speaker_672",
+        "length": 20560
+    },
+    "8555-284447-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284447/8555-284447-0009.flac",
+        "words": "MORNIN GIRLS HOPE YE FEEL AS WELL AS YE LOOK",
+        "spkID": "speaker_8555",
+        "length": 52400
+    },
+    "672-122797-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0003.flac",
+        "words": "BUT THIS WAS WHAT THE TREE COULD NOT BEAR TO HEAR",
+        "spkID": "speaker_672",
+        "length": 76160
+    },
+    "260-123286-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0004.flac",
+        "words": "ONE MIGHT BE WITH LESS REASON THAN NOW",
+        "spkID": "speaker_260",
+        "length": 55440
+    },
+    "1580-141083-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0047.flac",
+        "words": "DID YOU LOOK AT THESE PAPERS ON THE TABLE",
+        "spkID": "speaker_1580",
+        "length": 41680
+    },
+    "4446-2275-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0031.flac",
+        "words": "I UNDERSTAND BARTLEY I WAS WRONG",
+        "spkID": "speaker_4446",
+        "length": 48880
+    },
+    "260-123440-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0018.flac",
+        "words": "I AM VERY TIRED OF SWIMMING ABOUT HERE O MOUSE",
+        "spkID": "speaker_260",
+        "length": 58240
+    },
+    "5142-33396-0041": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0041.flac",
+        "words": "SO I SET GUARDS OVER EVERY ONE IN THAT HOUSE",
+        "spkID": "speaker_5142",
+        "length": 45280
+    },
+    "7127-75947-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0034.flac",
+        "words": "IT SEEMS THE KING WILL NOT CONSENT TO IT",
+        "spkID": "speaker_7127",
+        "length": 47440
+    },
+    "672-122797-0037": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0037.flac",
+        "words": "THAT'S THE WAY OF THE WORLD",
+        "spkID": "speaker_672",
+        "length": 31360
+    },
+    "237-134500-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0026.flac",
+        "words": "SURELY YOU ARE NOT THINKING OF GOING OFF THERE",
+        "spkID": "speaker_237",
+        "length": 48800
+    },
+    "1284-1180-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1180/1284-1180-0016.flac",
+        "words": "THE WOMAN SEEMED THOUGHTFUL",
+        "spkID": "speaker_1284",
+        "length": 34080
+    },
+    "5683-32866-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0008.flac",
+        "words": "BRACTON'S A VERY GOOD FELLOW I CAN ASSURE YOU",
+        "spkID": "speaker_5683",
+        "length": 52800
+    },
+    "4446-2273-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0014.flac",
+        "words": "THERE ARE FEW CHANGES IN THE OLD QUARTER",
+        "spkID": "speaker_4446",
+        "length": 38240
+    },
+    "2830-3980-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0020.flac",
+        "words": "THIS IS NO SINFUL PRIDE IT IS HOLY PRIDE",
+        "spkID": "speaker_2830",
+        "length": 55360
+    },
+    "3729-6852-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0027.flac",
+        "words": "THAT IS TRUE BADAUDERIE",
+        "spkID": "speaker_3729",
+        "length": 48000
+    },
+    "1188-133604-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0013.flac",
+        "words": "IT MUST REMEMBER BE ONE OR THE OTHER",
+        "spkID": "speaker_1188",
+        "length": 48320
+    },
+    "260-123288-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0018.flac",
+        "words": "THE RAFT BEARS ON STILL TO THE SOUTH EAST",
+        "spkID": "speaker_260",
+        "length": 51920
+    },
+    "260-123286-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0012.flac",
+        "words": "BUT THERE SEEMED NO REASON TO FEAR",
+        "spkID": "speaker_260",
+        "length": 38880
+    },
+    "7176-92135-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0019.flac",
+        "words": "I WANT DOUBLE NINE HAL LO",
+        "spkID": "speaker_7176",
+        "length": 38480
+    },
+    "7021-85628-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0004.flac",
+        "words": "YES WHY NOT THOUGHT ANDERS",
+        "spkID": "speaker_7021",
+        "length": 44880
+    },
+    "260-123288-0023": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0023.flac",
+        "words": "HE NODS HIS CONSENT",
+        "spkID": "speaker_260",
+        "length": 38160
+    },
+    "7127-75947-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0036.flac",
+        "words": "I GIVE MY CONSENT",
+        "spkID": "speaker_7127",
+        "length": 39040
+    },
+    "7176-92135-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0029.flac",
+        "words": "I WANT TO GET AWAY FROM IT ALL SWOONS",
+        "spkID": "speaker_7176",
+        "length": 47760
+    },
+    "2830-3980-0059": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0059.flac",
+        "words": "PAUL STICKS TO HIS THEME",
+        "spkID": "speaker_2830",
+        "length": 29200
+    },
+    "2300-131720-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/2300/131720/2300-131720-0014.flac",
+        "words": "MISTER EDISON WAS A LEADER FAR AHEAD OF THE TIME",
+        "spkID": "speaker_2300",
+        "length": 60000
+    },
+    "7127-75947-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0019.flac",
+        "words": "DID NOT THE DANCING AMUSE YOU NO",
+        "spkID": "speaker_7127",
+        "length": 62000
+    },
+    "4970-29095-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0008.flac",
+        "words": "MOTHER I'M GOING TO STUDY MEDICINE",
+        "spkID": "speaker_4970",
+        "length": 48640
+    },
+    "5105-28240-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28240/5105-28240-0013.flac",
+        "words": "NOTHING MORE THAN YOU KNOW YOURSELF",
+        "spkID": "speaker_5105",
+        "length": 47360
+    },
+    "4507-16021-0058": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0058.flac",
+        "words": "THE FLAME IS THE ENEMY OF THE WING",
+        "spkID": "speaker_4507",
+        "length": 49760
+    },
+    "7176-92135-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0026.flac",
+        "words": "ENTER HAMLET WITH HIS FAVOURITE BOAR HOUND",
+        "spkID": "speaker_7176",
+        "length": 47200
+    },
+    "260-123440-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0008.flac",
+        "words": "I'LL TRY IF I KNOW ALL THE THINGS I USED TO KNOW",
+        "spkID": "speaker_260",
+        "length": 59920
+    },
+    "3729-6852-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0019.flac",
+        "words": "I TELL HIM TO GIVE ME SOME COFFEE IF IT IS GOOD",
+        "spkID": "speaker_3729",
+        "length": 52880
+    },
+    "4446-2275-0032": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0032.flac",
+        "words": "BUT I DIDN'T KNOW YOU'VE ONLY TO TELL ME NOW",
+        "spkID": "speaker_4446",
+        "length": 51920
+    },
+    "5105-28240-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28240/5105-28240-0018.flac",
+        "words": "YOU WILL TAKE ME ON BOARD COUNT WILL YOU NOT",
+        "spkID": "speaker_5105",
+        "length": 46160
+    },
+    "3729-6852-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0016.flac",
+        "words": "MADAME QUINSON BESIDES CAN ANSWER YOUR ENQUIRIES",
+        "spkID": "speaker_3729",
+        "length": 67120
+    },
+    "908-157963-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/908/157963/908-157963-0029.flac",
+        "words": "WHY A TONGUE IMPRESS'D WITH HONEY FROM EVERY WIND",
+        "spkID": "speaker_908",
+        "length": 58080
+    },
+    "1284-1180-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1180/1284-1180-0022.flac",
+        "words": "I'M AFRAID I DON'T KNOW MUCH ABOUT THE LAND OF OZ",
+        "spkID": "speaker_1284",
+        "length": 46160
+    },
+    "237-134500-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0034.flac",
+        "words": "THANK YOU HE RETURNED SHORTLY",
+        "spkID": "speaker_237",
+        "length": 49200
+    },
+    "3729-6852-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0043.flac",
+        "words": "I RESIDE IN THE MARAIS RUE DE DOUZE PORTES",
+        "spkID": "speaker_3729",
+        "length": 67280
+    },
+    "121-127105-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0004.flac",
+        "words": "THE STORY'S WRITTEN",
+        "spkID": "speaker_121",
+        "length": 33760
+    },
+    "1580-141083-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0005.flac",
+        "words": "I WAS ABSENT RATHER MORE THAN AN HOUR",
+        "spkID": "speaker_1580",
+        "length": 43920
+    },
+    "7021-85628-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0025.flac",
+        "words": "BUT HIS MOTHER HUGGED HIM CLOSE",
+        "spkID": "speaker_7021",
+        "length": 44400
+    },
+    "4446-2275-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0030.flac",
+        "words": "YES HILDA I KNOW THAT HE SAID SIMPLY",
+        "spkID": "speaker_4446",
+        "length": 42640
+    },
+    "1995-1826-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0008.flac",
+        "words": "SOME OTHERS TOO BIG COTTON COUNTY",
+        "spkID": "speaker_1995",
+        "length": 46320
+    },
+    "5142-33396-0063": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0063.flac",
+        "words": "AND WOULD HE NOT BE A GOOD GIFT FOR OUR BABY",
+        "spkID": "speaker_5142",
+        "length": 40240
+    },
+    "8463-294828-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0008.flac",
+        "words": "AND YET WHAT A FINE GALLANT LAD",
+        "spkID": "speaker_8463",
+        "length": 42400
+    },
+    "237-134500-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0003.flac",
+        "words": "THE ORCHARD WAS SPARKLING AND RIPPLING IN THE SUN",
+        "spkID": "speaker_237",
+        "length": 50720
+    },
+    "908-157963-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/908/157963/908-157963-0002.flac",
+        "words": "WHY FADES THE LOTUS OF THE WATER",
+        "spkID": "speaker_908",
+        "length": 44080
+    },
+    "908-31957-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/908/31957/908-31957-0018.flac",
+        "words": "BUT THOU ART NOT SUCH A LOVER MY BELOVED",
+        "spkID": "speaker_908",
+        "length": 62640
+    },
+    "6930-81414-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0015.flac",
+        "words": "I DO NOT KNOW I AM DAZED BEWILDERED",
+        "spkID": "speaker_6930",
+        "length": 59680
+    },
+    "908-157963-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/908/157963/908-157963-0024.flac",
+        "words": "IMAGE OF WEAKNESS ART THOU BUT A WORM",
+        "spkID": "speaker_908",
+        "length": 55040
+    },
+    "61-70970-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0008.flac",
+        "words": "NOW TO BED BOY",
+        "spkID": "speaker_61",
+        "length": 34400
+    },
+    "61-70968-0048": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0048.flac",
+        "words": "AND HENRY MIGHT RETURN TO ENGLAND AT ANY MOMENT",
+        "spkID": "speaker_61",
+        "length": 48320
+    },
+    "1580-141084-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0027.flac",
+        "words": "NO SIR CERTAINLY NOT",
+        "spkID": "speaker_1580",
+        "length": 53760
+    },
+    "121-121726-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0012.flac",
+        "words": "HUSSY WOMAN AND BOND TIE",
+        "spkID": "speaker_121",
+        "length": 64720
+    },
+    "8455-210777-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0021.flac",
+        "words": "BUT I MEAN TO HAVE MY INNINGS BEFORE LONG",
+        "spkID": "speaker_8455",
+        "length": 43440
+    },
+    "61-70968-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0002.flac",
+        "words": "A GOLDEN FORTUNE AND A HAPPY LIFE",
+        "spkID": "speaker_61",
+        "length": 47520
+    },
+    "1580-141083-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0019.flac",
+        "words": "ABOVE WERE THREE STUDENTS ONE ON EACH STORY",
+        "spkID": "speaker_1580",
+        "length": 43280
+    },
+    "5683-32879-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32879/5683-32879-0021.flac",
+        "words": "DORCAS IN HER STRANGE WAY WAS MOVED",
+        "spkID": "speaker_5683",
+        "length": 65440
+    },
+    "908-157963-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/908/157963/908-157963-0003.flac",
+        "words": "WHY FADE THESE CHILDREN OF THE SPRING",
+        "spkID": "speaker_908",
+        "length": 49280
+    },
+    "8463-294828-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0034.flac",
+        "words": "WE'LL BE QUITE COMFORTABLE HERE I TOLD CONSEIL",
+        "spkID": "speaker_8463",
+        "length": 56080
+    },
+    "1580-141083-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0017.flac",
+        "words": "SO IT SEEMS TO ME",
+        "spkID": "speaker_1580",
+        "length": 36480
+    },
+    "672-122797-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0043.flac",
+        "words": "WHAT'S THE MEANING OF THIS THOUGHT THE TREE",
+        "spkID": "speaker_672",
+        "length": 60480
+    },
+    "260-123440-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0003.flac",
+        "words": "OH WON'T SHE BE SAVAGE IF I'VE KEPT HER WAITING",
+        "spkID": "speaker_260",
+        "length": 57360
+    },
+    "2830-3980-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0043.flac",
+        "words": "EXPERIENCE PROVES THIS",
+        "spkID": "speaker_2830",
+        "length": 31600
+    },
+    "7729-102255-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/7729/102255/7729-102255-0013.flac",
+        "words": "IT WAS IN FACT THE BEST WEAPON OF ITS DAY",
+        "spkID": "speaker_7729",
+        "length": 42800
+    },
+    "8455-210777-0063": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0063.flac",
+        "words": "TO DAY I SHOUTED",
+        "spkID": "speaker_8455",
+        "length": 36160
+    },
+    "1580-141084-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0036.flac",
+        "words": "THE INDIAN I ALSO THOUGHT NOTHING OF",
+        "spkID": "speaker_1580",
+        "length": 39600
+    },
+    "672-122797-0054": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0054.flac",
+        "words": "I KNOW NO SUCH PLACE SAID THE TREE",
+        "spkID": "speaker_672",
+        "length": 68000
+    },
+    "260-123288-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0000.flac",
+        "words": "THE ROARINGS BECOME LOST IN THE DISTANCE",
+        "spkID": "speaker_260",
+        "length": 48640
+    },
+    "5142-36377-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36377/5142-36377-0011.flac",
+        "words": "MISTER JAGO IS AN AMERICAN PHILIP",
+        "spkID": "speaker_5142",
+        "length": 34641
+    },
+    "4507-16021-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0005.flac",
+        "words": "WE HAVE NEVER UNDERSTOOD THIS SORT OF OBJECTIONS",
+        "spkID": "speaker_4507",
+        "length": 67360
+    },
+    "2830-3980-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0022.flac",
+        "words": "THE CLAUSE SEEMS SUPERFLUOUS ON FIRST SIGHT",
+        "spkID": "speaker_2830",
+        "length": 52320
+    },
+    "121-127105-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0018.flac",
+        "words": "CRIED THE LADIES WHOSE DEPARTURE HAD BEEN FIXED",
+        "spkID": "speaker_121",
+        "length": 44320
+    },
+    "1284-1181-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1181/1284-1181-0021.flac",
+        "words": "ASKED THE VOICE IN SCORNFUL ACCENTS",
+        "spkID": "speaker_1284",
+        "length": 43200
+    },
+    "1995-1837-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0005.flac",
+        "words": "SHE WAS SO STRANGE AND HUMAN A CREATURE",
+        "spkID": "speaker_1995",
+        "length": 42160
+    },
+    "2830-3980-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0026.flac",
+        "words": "VERSE TWO",
+        "spkID": "speaker_2830",
+        "length": 23760
+    },
+    "3729-6852-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0010.flac",
+        "words": "I NEVER HAD ANY FAMILY",
+        "spkID": "speaker_3729",
+        "length": 44080
+    },
+    "8463-294828-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0030.flac",
+        "words": "I ASKED FOR COMMANDER FARRAGUT",
+        "spkID": "speaker_8463",
+        "length": 43120
+    },
+    "1580-141084-0037": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0037.flac",
+        "words": "WHEN I APPROACHED YOUR ROOM I EXAMINED THE WINDOW",
+        "spkID": "speaker_1580",
+        "length": 47440
+    },
+    "6829-68769-0050": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0050.flac",
+        "words": "BETH UNEASY AT HIS SILENCE NUDGED HIM",
+        "spkID": "speaker_6829",
+        "length": 46640
+    },
+    "5683-32879-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32879/5683-32879-0024.flac",
+        "words": "YES RACHEL I DO LOVE YOU",
+        "spkID": "speaker_5683",
+        "length": 37920
+    },
+    "1089-134686-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0014.flac",
+        "words": "HE TRIED TO THINK HOW IT COULD BE",
+        "spkID": "speaker_1089",
+        "length": 35600
+    },
+    "6829-68769-0045": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0045.flac",
+        "words": "I'LL PAY ALL THE COSTS BESIDES",
+        "spkID": "speaker_6829",
+        "length": 34160
+    },
+    "672-122797-0053": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0053.flac",
+        "words": "THEY WERE SO EXTREMELY CURIOUS",
+        "spkID": "speaker_672",
+        "length": 47280
+    },
+    "3729-6852-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/3729/6852/3729-6852-0025.flac",
+        "words": "IS THERE NOT A MERIDIAN EVERYWHERE",
+        "spkID": "speaker_3729",
+        "length": 48000
+    },
+    "6930-81414-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0017.flac",
+        "words": "I KNOW HE HAD IT THIS VERY EVENING",
+        "spkID": "speaker_6930",
+        "length": 37440
+    },
+    "1089-134686-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0007.flac",
+        "words": "A COLD LUCID INDIFFERENCE REIGNED IN HIS SOUL",
+        "spkID": "speaker_1089",
+        "length": 68400
+    },
+    "61-70968-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0044.flac",
+        "words": "IT WILL NOT BE SAFE FOR YOU TO STAY HERE NOW",
+        "spkID": "speaker_61",
+        "length": 44320
+    },
+    "1089-134691-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0015.flac",
+        "words": "WORDS WAS IT THEIR COLOURS",
+        "spkID": "speaker_1089",
+        "length": 54320
+    },
+    "7729-102255-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/7729/102255/7729-102255-0000.flac",
+        "words": "THE BOGUS LEGISLATURE NUMBERED THIRTY SIX MEMBERS",
+        "spkID": "speaker_7729",
+        "length": 52560
+    },
+    "672-122797-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0000.flac",
+        "words": "OUT IN THE WOODS STOOD A NICE LITTLE FIR TREE",
+        "spkID": "speaker_672",
+        "length": 65120
+    },
+    "1188-133604-0042": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0042.flac",
+        "words": "THE SCENE IS ABSOLUTELY ARCADIAN",
+        "spkID": "speaker_1188",
+        "length": 42560
+    },
+    "260-123288-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0022.flac",
+        "words": "THEY SEEM TO BE WE ARE LOST BUT I AM NOT SURE",
+        "spkID": "speaker_260",
+        "length": 59280
+    },
+    "7021-79740-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/79740/7021-79740-0005.flac",
+        "words": "I AM VERY GLAD",
+        "spkID": "speaker_7021",
+        "length": 33760
+    },
+    "7127-75946-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0010.flac",
+        "words": "YOUR MAJESTY'S PLAN THEN IN THIS AFFAIR IS",
+        "spkID": "speaker_7127",
+        "length": 57600
+    },
+    "1089-134691-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0003.flac",
+        "words": "THE UNIVERSITY",
+        "spkID": "speaker_1089",
+        "length": 34800
+    },
+    "1995-1826-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0005.flac",
+        "words": "BUT JOHN THERE'S NO SOCIETY JUST ELEMENTARY WORK",
+        "spkID": "speaker_1995",
+        "length": 82000
+    },
+    "2830-3980-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0014.flac",
+        "words": "THE CALL IS NOT TO BE TAKEN LIGHTLY",
+        "spkID": "speaker_2830",
+        "length": 40400
+    },
+    "4446-2275-0045": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0045.flac",
+        "words": "WE'VE TORTURED EACH OTHER ENOUGH FOR TONIGHT",
+        "spkID": "speaker_4446",
+        "length": 42160
+    },
+    "6829-68769-0041": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0041.flac",
+        "words": "I'M NOT ELECTIONEERING JUST NOW",
+        "spkID": "speaker_6829",
+        "length": 42560
+    },
+    "8463-294825-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0000.flac",
+        "words": "IT'S ALMOST BEYOND CONJECTURE",
+        "spkID": "speaker_8463",
+        "length": 43120
+    },
+    "5105-28240-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28240/5105-28240-0014.flac",
+        "words": "ARE YOU CERTAIN THAT THIS IS THE MEDITERRANEAN",
+        "spkID": "speaker_5105",
+        "length": 49120
+    },
+    "8463-294825-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0015.flac",
+        "words": "GRAM ROUGHLY ONE TWENTY EIGHTH OF AN OUNCE",
+        "spkID": "speaker_8463",
+        "length": 52000
+    },
+    "4507-16021-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0018.flac",
+        "words": "WHAT IS SLANG PROPERLY SPEAKING",
+        "spkID": "speaker_4507",
+        "length": 54000
+    },
+    "237-134500-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0030.flac",
+        "words": "I WANT TO BE DOING SOMETHING ON MY OWN ACCOUNT",
+        "spkID": "speaker_237",
+        "length": 44480
+    },
+    "260-123286-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0024.flac",
+        "words": "THERE'S A WHALE A WHALE CRIED THE PROFESSOR",
+        "spkID": "speaker_260",
+        "length": 48640
+    },
+    "5142-36586-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36586/5142-36586-0001.flac",
+        "words": "SO IT IS WITH THE LOWER ANIMALS",
+        "spkID": "speaker_5142",
+        "length": 35440
+    },
+    "2094-142345-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0016.flac",
+        "words": "SPINNING INDEED",
+        "spkID": "speaker_2094",
+        "length": 36160
+    },
+    "6930-75918-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0012.flac",
+        "words": "IT IS ANNOYANCE THEN",
+        "spkID": "speaker_6930",
+        "length": 31040
+    },
+    "8230-279154-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/8230/279154/8230-279154-0008.flac",
+        "words": "BUT I DO NOT THINK SUCH AN INFERENCE IS WARRANTED",
+        "spkID": "speaker_8230",
+        "length": 57920
+    },
+    "61-70968-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0009.flac",
+        "words": "LIKE AS NOT YOUNG MASTER THOUGH I AM AN OLD MAN",
+        "spkID": "speaker_61",
+        "length": 72160
+    },
+    "4507-16021-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0012.flac",
+        "words": "WHY SHOULD ONE HALT ON THE WAY",
+        "spkID": "speaker_4507",
+        "length": 43760
+    },
+    "5142-33396-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0004.flac",
+        "words": "THESE HE GAVE TO THREE OF MY BROTHERS",
+        "spkID": "speaker_5142",
+        "length": 35440
+    },
+    "2830-3980-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0002.flac",
+        "words": "HE WAS THE LAST TO TURN TO CHRIST",
+        "spkID": "speaker_2830",
+        "length": 32400
+    },
+    "6829-68771-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68771/6829-68771-0034.flac",
+        "words": "I WISH I KNEW MYSELF SHE CRIED FIERCELY",
+        "spkID": "speaker_6829",
+        "length": 39600
+    },
+    "1580-141084-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0025.flac",
+        "words": "YOU KNOW HIM I THINK SO",
+        "spkID": "speaker_1580",
+        "length": 38000
+    },
+    "1580-141084-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0001.flac",
+        "words": "HE WAS PACING SWIFTLY UP AND DOWN HIS ROOM",
+        "spkID": "speaker_1580",
+        "length": 52240
+    },
+    "3575-170457-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0002.flac",
+        "words": "WHY ARE WE TO BE DIVIDED",
+        "spkID": "speaker_3575",
+        "length": 33760
+    },
+    "5105-28241-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28241/5105-28241-0007.flac",
+        "words": "THERE IS NO FEAR OF THAT SIR",
+        "spkID": "speaker_5105",
+        "length": 30080
+    },
+    "237-134493-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134493/237-134493-0000.flac",
+        "words": "IT IS SIXTEEN YEARS SINCE JOHN BERGSON DIED",
+        "spkID": "speaker_237",
+        "length": 65680
+    },
+    "7127-75947-0032": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0032.flac",
+        "words": "YES BUT PERHAPS I FRIGHTENED HER IN WHAT WAY",
+        "spkID": "speaker_7127",
+        "length": 75920
+    },
+    "7127-75946-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0019.flac",
+        "words": "YES IT IS SUPPRESSED",
+        "spkID": "speaker_7127",
+        "length": 42160
+    },
+    "4446-2273-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0033.flac",
+        "words": "FOR A LONG TIME NEITHER HILDA NOR BARTLEY SPOKE",
+        "spkID": "speaker_4446",
+        "length": 52800
+    },
+    "237-134500-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0029.flac",
+        "words": "I DON'T WANT TO STAND AROUND AND LOOK ON",
+        "spkID": "speaker_237",
+        "length": 33040
+    },
+    "5105-28241-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28241/5105-28241-0010.flac",
+        "words": "OCEAN REIGNED SUPREME",
+        "spkID": "speaker_5105",
+        "length": 36960
+    },
+    "2094-142345-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0025.flac",
+        "words": "COLD IS IT MY DARLING BLESS YOUR SWEET FACE",
+        "spkID": "speaker_2094",
+        "length": 57520
+    },
+    "237-126133-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/237/126133/237-126133-0009.flac",
+        "words": "NOW YOU'LL STAY CRIED VAN SAY POLLY WON'T YOU",
+        "spkID": "speaker_237",
+        "length": 63520
+    },
+    "2094-142345-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0017.flac",
+        "words": "I NEVER KNEW YOUR EQUALS FOR GALLOWSNESS",
+        "spkID": "speaker_2094",
+        "length": 45360
+    },
+    "2094-142345-0041": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0041.flac",
+        "words": "DIRECTION",
+        "spkID": "speaker_2094",
+        "length": 22720
+    },
+    "4446-2275-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0017.flac",
+        "words": "BUT IT'S WORSE NOW IT'S UNBEARABLE",
+        "spkID": "speaker_4446",
+        "length": 39600
+    },
+    "1580-141084-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0022.flac",
+        "words": "AND ONE MORE THIS MORNING",
+        "spkID": "speaker_1580",
+        "length": 32960
+    },
+    "6930-75918-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0000.flac",
+        "words": "CONCORD RETURNED TO ITS PLACE AMIDST THE TENTS",
+        "spkID": "speaker_6930",
+        "length": 56080
+    },
+    "6829-68769-0042": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0042.flac",
+        "words": "OH WELL SIR WHAT ABOUT HIM",
+        "spkID": "speaker_6829",
+        "length": 34800
+    },
+    "672-122797-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0019.flac",
+        "words": "REJOICE IN THY OWN FRESH YOUTH",
+        "spkID": "speaker_672",
+        "length": 65760
+    },
+    "4970-29093-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0000.flac",
+        "words": "YOU'LL NEVER DIG IT OUT OF THE ASTOR LIBRARY",
+        "spkID": "speaker_4970",
+        "length": 48480
+    },
+    "5142-33396-0058": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0058.flac",
+        "words": "A ROBBER VIKING SAID THE KING AND SCOWLED AT ME",
+        "spkID": "speaker_5142",
+        "length": 51600
+    },
+    "260-123288-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0028.flac",
+        "words": "WE SUFFER STIFLING PAINS",
+        "spkID": "speaker_260",
+        "length": 41760
+    },
+    "4446-2271-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2271/4446-2271-0022.flac",
+        "words": "I'M GLAD SHE'S HELD HER OWN SINCE",
+        "spkID": "speaker_4446",
+        "length": 37200
+    },
+    "5142-33396-0061": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0061.flac",
+        "words": "YOUR MOTHER THE QUEEN WAS STANDING BY",
+        "spkID": "speaker_5142",
+        "length": 34240
+    },
+    "5683-32865-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0001.flac",
+        "words": "SAID LORD CHELFORD ADDRESSING ME",
+        "spkID": "speaker_5683",
+        "length": 41280
+    },
+    "121-121726-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0014.flac",
+        "words": "HYPOCRITE A HORSE DEALER",
+        "spkID": "speaker_121",
+        "length": 50640
+    },
+    "4992-41806-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/4992/41806/4992-41806-0004.flac",
+        "words": "BURN FIRE BURN FLICKER FLICKER FLAME",
+        "spkID": "speaker_4992",
+        "length": 59200
+    },
+    "1580-141083-0051": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0051.flac",
+        "words": "ONLY FOR A MINUTE OR SO",
+        "spkID": "speaker_1580",
+        "length": 31680
+    },
+    "4507-16021-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0000.flac",
+        "words": "CHAPTER ONE ORIGIN",
+        "spkID": "speaker_4507",
+        "length": 41440
+    },
+    "1580-141083-0023": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0023.flac",
+        "words": "ONE COULD HARDLY HOPE FOR ANY UPON SO DRY A DAY",
+        "spkID": "speaker_1580",
+        "length": 53280
+    },
+    "7176-92135-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0011.flac",
+        "words": "NOW THE OBJECT OF THIS SOLILOQUY IS PLAIN",
+        "spkID": "speaker_7176",
+        "length": 46160
+    },
+    "237-134500-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0017.flac",
+        "words": "IF I FEEL THAT WAY I FEEL THAT WAY",
+        "spkID": "speaker_237",
+        "length": 34880
+    },
+    "6930-76324-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/76324/6930-76324-0018.flac",
+        "words": "HE MAKES IT SORT OF COZIER",
+        "spkID": "speaker_6930",
+        "length": 34240
+    },
+    "121-121726-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0005.flac",
+        "words": "HEDGE A FENCE",
+        "spkID": "speaker_121",
+        "length": 49600
+    },
+    "237-134500-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0004.flac",
+        "words": "THAT INVITATION DECIDED HER",
+        "spkID": "speaker_237",
+        "length": 35600
+    },
+    "6829-68771-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68771/6829-68771-0031.flac",
+        "words": "HER EYES WANDERED TO THE MAID'S HANDS",
+        "spkID": "speaker_6829",
+        "length": 40240
+    },
+    "2830-3980-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0044.flac",
+        "words": "HOWEVER THE GRACE AND PEACE OF GOD WILL",
+        "spkID": "speaker_2830",
+        "length": 55840
+    },
+    "5142-36586-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36586/5142-36586-0002.flac",
+        "words": "THE VARIABILITY OF MULTIPLE PARTS",
+        "spkID": "speaker_5142",
+        "length": 37360
+    },
+    "1995-1836-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1836/1995-1836-0012.flac",
+        "words": "BUT WE'RE NOT ER EXACTLY WELCOMED",
+        "spkID": "speaker_1995",
+        "length": 59120
+    },
+    "260-123288-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0020.flac",
+        "words": "EACH OF US IS LASHED TO SOME PART OF THE RAFT",
+        "spkID": "speaker_260",
+        "length": 46400
+    },
+    "1221-135767-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135767/1221-135767-0015.flac",
+        "words": "YE MAY NOT SEE HIS WORSHIP NOW",
+        "spkID": "speaker_1221",
+        "length": 45600
+    },
+    "260-123286-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0011.flac",
+        "words": "NOTHING NEW WEATHER UNCHANGED THE WIND FRESHENS",
+        "spkID": "speaker_260",
+        "length": 68080
+    },
+    "8555-292519-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/292519/8555-292519-0011.flac",
+        "words": "HE HAD GOT INTO HER COURTYARD",
+        "spkID": "speaker_8555",
+        "length": 49280
+    },
+    "8230-279154-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/8230/279154/8230-279154-0036.flac",
+        "words": "A FURTHER STAGE IS RECOGNITION",
+        "spkID": "speaker_8230",
+        "length": 51760
+    },
+    "1221-135767-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135767/1221-135767-0019.flac",
+        "words": "MOTHER CRIED SHE I SEE YOU HERE LOOK LOOK",
+        "spkID": "speaker_1221",
+        "length": 60480
+    },
+    "5142-36377-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/36377/5142-36377-0016.flac",
+        "words": "FOR ONCE IN A WAY I PROVED A TRUE PROPHET",
+        "spkID": "speaker_5142",
+        "length": 44240
+    },
+    "672-122797-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0031.flac",
+        "words": "IT BLAZED UP FAMOUSLY HELP HELP",
+        "spkID": "speaker_672",
+        "length": 63680
+    },
+    "3575-170457-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0016.flac",
+        "words": "FAREWELL MADAM",
+        "spkID": "speaker_3575",
+        "length": 27120
+    },
+    "1089-134691-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0018.flac",
+        "words": "AGAIN AGAIN",
+        "spkID": "speaker_1089",
+        "length": 49440
+    },
+    "61-70968-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0012.flac",
+        "words": "CRIES OF A NOTTINGHAM A NOTTINGHAM",
+        "spkID": "speaker_61",
+        "length": 41760
+    },
+    "121-127105-0032": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0032.flac",
+        "words": "YES BUT THAT'S JUST THE BEAUTY OF HER PASSION",
+        "spkID": "speaker_121",
+        "length": 50720
+    },
+    "4446-2271-0023": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2271/4446-2271-0023.flac",
+        "words": "AFTER ALL WE WERE AWFULLY YOUNG",
+        "spkID": "speaker_4446",
+        "length": 36240
+    },
+    "1580-141084-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0018.flac",
+        "words": "I THINK SO YOU HAVE FORMED A CONCLUSION",
+        "spkID": "speaker_1580",
+        "length": 53520
+    },
+    "121-127105-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0021.flac",
+        "words": "WON'T YOU TELL DOUGLAS",
+        "spkID": "speaker_121",
+        "length": 32000
+    },
+    "7127-75946-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0005.flac",
+        "words": "WHAT DO YOU MEAN INQUIRED LOUIS",
+        "spkID": "speaker_7127",
+        "length": 42720
+    },
+    "7127-75947-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0031.flac",
+        "words": "YOU ARE POSITIVE THEN",
+        "spkID": "speaker_7127",
+        "length": 30720
+    },
+    "4446-2273-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0011.flac",
+        "words": "THERE IS NOTHING ELSE THAT LOOKS SO JOLLY",
+        "spkID": "speaker_4446",
+        "length": 44640
+    },
+    "8463-294828-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0022.flac",
+        "words": "WE'RE LEAVING ON THE ABRAHAM LINCOLN",
+        "spkID": "speaker_8463",
+        "length": 37680
+    },
+    "8455-210777-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0007.flac",
+        "words": "QUITE SATISFIED SAID EVA",
+        "spkID": "speaker_8455",
+        "length": 42720
+    },
+    "121-121726-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0011.flac",
+        "words": "HUSBAND THE NEXT THING TO A WIFE",
+        "spkID": "speaker_121",
+        "length": 64560
+    },
+    "5142-33396-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0000.flac",
+        "words": "AT ANOTHER TIME HARALD ASKED",
+        "spkID": "speaker_5142",
+        "length": 32080
+    },
+    "4970-29095-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0013.flac",
+        "words": "I WILL PRACTICE IT",
+        "spkID": "speaker_4970",
+        "length": 31680
+    },
+    "8555-284449-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284449/8555-284449-0009.flac",
+        "words": "YOU ARE MATE REPLIED THE SAILOR",
+        "spkID": "speaker_8555",
+        "length": 52320
+    },
+    "5142-33396-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0027.flac",
+        "words": "HE ACTS AS THOUGH HE HAD NOT EXPECTED US",
+        "spkID": "speaker_5142",
+        "length": 35760
+    },
+    "260-123286-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0022.flac",
+        "words": "TWO HOURS AFTERWARDS A TERRIBLE SHOCK AWOKE ME",
+        "spkID": "speaker_260",
+        "length": 51760
+    },
+    "1995-1826-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0014.flac",
+        "words": "COTTON SHE PAUSED",
+        "spkID": "speaker_1995",
+        "length": 40000
+    },
+    "4970-29095-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0019.flac",
+        "words": "AND THEN THERE WAS BROAD STREET",
+        "spkID": "speaker_4970",
+        "length": 43600
+    },
+    "1580-141083-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0028.flac",
+        "words": "THEN HE TOSSED IT DOWN AND SEIZED THE NEXT",
+        "spkID": "speaker_1580",
+        "length": 41360
+    },
+    "6930-76324-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/76324/6930-76324-0010.flac",
+        "words": "WHAT IN THE WORLD IS THAT QUERIED JOYCE",
+        "spkID": "speaker_6930",
+        "length": 43040
+    },
+    "121-121726-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0013.flac",
+        "words": "TIED TO A WOMAN",
+        "spkID": "speaker_121",
+        "length": 39840
+    },
+    "2830-3980-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0016.flac",
+        "words": "IT SPOILS ONE'S BEST WORK",
+        "spkID": "speaker_2830",
+        "length": 37920
+    },
+    "5142-33396-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0008.flac",
+        "words": "I PAINTED THE EYES RED FOR ANGER",
+        "spkID": "speaker_5142",
+        "length": 33760
+    },
+    "672-122797-0058": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0058.flac",
+        "words": "WHO IS HUMPY DUMPY ASKED THE MICE",
+        "spkID": "speaker_672",
+        "length": 71520
+    },
+    "8555-292519-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/292519/8555-292519-0004.flac",
+        "words": "THE PITY THAT WE MUST COME AND GO",
+        "spkID": "speaker_8555",
+        "length": 51920
+    },
+    "672-122797-0062": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0062.flac",
+        "words": "NO SAID THE TREE",
+        "spkID": "speaker_672",
+        "length": 42800
+    },
+    "260-123440-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0013.flac",
+        "words": "I AM SO VERY TIRED OF BEING ALL ALONE HERE",
+        "spkID": "speaker_260",
+        "length": 55600
+    },
+    "6829-68769-0046": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0046.flac",
+        "words": "YOU'RE FOOLISH WHY SHOULD YOU DO ALL THIS",
+        "spkID": "speaker_6829",
+        "length": 41120
+    },
+    "1580-141084-0046": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0046.flac",
+        "words": "HAVE I TOLD THE TRUTH MISTER GILCHRIST",
+        "spkID": "speaker_1580",
+        "length": 37600
+    },
+    "237-134493-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134493/237-134493-0009.flac",
+        "words": "PLEASE WAIT FOR ME MARIE EMIL COAXED",
+        "spkID": "speaker_237",
+        "length": 47600
+    },
+    "4507-16021-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0006.flac",
+        "words": "SLANG IS ODIOUS",
+        "spkID": "speaker_4507",
+        "length": 33760
+    },
+    "260-123286-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0021.flac",
+        "words": "DURING HIS WATCH I SLEPT",
+        "spkID": "speaker_260",
+        "length": 40800
+    },
+    "8230-279154-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/8230/279154/8230-279154-0012.flac",
+        "words": "FAMILIARITY IS A FEELING CAPABLE OF DEGREES",
+        "spkID": "speaker_8230",
+        "length": 58240
+    },
+    "8463-294828-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0015.flac",
+        "words": "CONSEIL I CALLED A THIRD TIME CONSEIL APPEARED",
+        "spkID": "speaker_8463",
+        "length": 78080
+    },
+    "1580-141084-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0035.flac",
+        "words": "HE COULD EXAMINE THE PAPERS IN HIS OWN OFFICE",
+        "spkID": "speaker_1580",
+        "length": 42080
+    },
+    "908-31957-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/908/31957/908-31957-0005.flac",
+        "words": "ALAS I HAVE GRIEVED SO I AM HARD TO LOVE",
+        "spkID": "speaker_908",
+        "length": 71840
+    },
+    "8463-287645-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/287645/8463-287645-0001.flac",
+        "words": "IT IS HARDLY NECESSARY TO SAY MORE OF THEM HERE",
+        "spkID": "speaker_8463",
+        "length": 56720
+    },
+    "7176-92135-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0004.flac",
+        "words": "FRANKLY I CANNOT ALWAYS SAY",
+        "spkID": "speaker_7176",
+        "length": 38800
+    },
+    "260-123286-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0014.flac",
+        "words": "TRULY THIS SEA IS OF INFINITE WIDTH",
+        "spkID": "speaker_260",
+        "length": 47680
+    },
+    "5142-33396-0066": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0066.flac",
+        "words": "THEN HE TURNED TO ME AGAIN FROWNING",
+        "spkID": "speaker_5142",
+        "length": 35440
+    },
+    "5142-33396-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0047.flac",
+        "words": "MY MEN POUNDED THE TABLE WITH THEIR FISTS",
+        "spkID": "speaker_5142",
+        "length": 40560
+    },
+    "7729-102255-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/7729/102255/7729-102255-0034.flac",
+        "words": "TO THEIR SORROW THEY WERE SOON UNDECEIVED",
+        "spkID": "speaker_7729",
+        "length": 43360
+    },
+    "672-122797-0063": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0063.flac",
+        "words": "THEN GOOD BYE SAID THE RATS AND THEY WENT HOME",
+        "spkID": "speaker_672",
+        "length": 81200
+    },
+    "8555-284447-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284447/8555-284447-0016.flac",
+        "words": "FINE GLORIOUS",
+        "spkID": "speaker_8555",
+        "length": 33760
+    },
+    "4507-16021-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0003.flac",
+        "words": "SHE HAS A SON THEFT AND A DAUGHTER HUNGER",
+        "spkID": "speaker_4507",
+        "length": 78320
+    },
+    "8463-294828-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0005.flac",
+        "words": "CONSEIL WAS MY MANSERVANT",
+        "spkID": "speaker_8463",
+        "length": 39040
+    },
+    "672-122797-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0005.flac",
+        "words": "OH THAT MADE HIM SO ANGRY",
+        "spkID": "speaker_672",
+        "length": 52160
+    },
+    "237-134500-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0035.flac",
+        "words": "AND YOU NEVER USED TO BE CROSS TO ME",
+        "spkID": "speaker_237",
+        "length": 40880
+    },
+    "7021-85628-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0019.flac",
+        "words": "WITH ONE JUMP ANDERS GOT OUT OF HIS CHAIR",
+        "spkID": "speaker_7021",
+        "length": 52080
+    },
+    "672-122797-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0047.flac",
+        "words": "HOW KIND MAN IS AFTER ALL",
+        "spkID": "speaker_672",
+        "length": 53200
+    },
+    "672-122797-0057": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0057.flac",
+        "words": "YES IN REALITY THOSE WERE HAPPY TIMES",
+        "spkID": "speaker_672",
+        "length": 104960
+    },
+    "2830-3980-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0003.flac",
+        "words": "PAUL CAME LATER AND IS BENEATH US",
+        "spkID": "speaker_2830",
+        "length": 39680
+    },
+    "5683-32865-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0015.flac",
+        "words": "I HAD A HORRID DREAM ABOUT HIM LAST NIGHT THAT",
+        "spkID": "speaker_5683",
+        "length": 66320
+    },
+    "7176-92135-0037": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0037.flac",
+        "words": "THEN IS THE TIME TO INTRODUCE A MEAL ON THE STAGE",
+        "spkID": "speaker_7176",
+        "length": 45760
+    },
+    "6829-68769-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0010.flac",
+        "words": "WE WISH TO TALK WITH HIM ANSWERED KENNETH TALK",
+        "spkID": "speaker_6829",
+        "length": 50240
+    },
+    "4446-2273-0036": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0036.flac",
+        "words": "ALEXANDER UNCLENCHED THE TWO HANDS AT HIS SIDES",
+        "spkID": "speaker_4446",
+        "length": 49920
+    },
+    "4970-29093-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0017.flac",
+        "words": "I'VE BEEN READY TO GO ANYWHERE FOR SIX MONTHS",
+        "spkID": "speaker_4970",
+        "length": 45840
+    },
+    "8463-294825-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0014.flac",
+        "words": "FATHOM SIX FEET",
+        "spkID": "speaker_8463",
+        "length": 38640
+    },
+    "5683-32879-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32879/5683-32879-0012.flac",
+        "words": "THANK YOU RACHEL MY COUSIN RACHEL MY ONLY FRIEND",
+        "spkID": "speaker_5683",
+        "length": 70080
+    },
+    "2094-142345-0055": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0055.flac",
+        "words": "BUT YOU KNOW MORE ABOUT THAT THAN I DO SIR",
+        "spkID": "speaker_2094",
+        "length": 42480
+    },
+    "672-122797-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0028.flac",
+        "words": "THIS EVENING THEY ALL SAID",
+        "spkID": "speaker_672",
+        "length": 41760
+    },
+    "237-134500-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0016.flac",
+        "words": "I DON'T KNOW ALL OF THEM BUT I KNOW LINDENS ARE",
+        "spkID": "speaker_237",
+        "length": 50560
+    },
+    "7176-88083-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/88083/7176-88083-0008.flac",
+        "words": "IN DESPAIR HE HURLED HIMSELF DOWNWARD TOO SOON",
+        "spkID": "speaker_7176",
+        "length": 52480
+    },
+    "237-134500-0038": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0038.flac",
+        "words": "AND ANYHOW THERE'S NOTHING TO UNDERSTAND",
+        "spkID": "speaker_237",
+        "length": 38960
+    },
+    "672-122797-0068": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0068.flac",
+        "words": "BUT IT WAS NOT THE FIR TREE THAT THEY MEANT",
+        "spkID": "speaker_672",
+        "length": 64320
+    },
+    "6829-68769-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0002.flac",
+        "words": "I CAN'T SEE IT IN THAT LIGHT SAID THE OLD LAWYER",
+        "spkID": "speaker_6829",
+        "length": 49200
+    },
+    "5142-33396-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0039.flac",
+        "words": "I NAMED NINE OTHERS AND SAID",
+        "spkID": "speaker_5142",
+        "length": 31920
+    },
+    "260-123440-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0006.flac",
+        "words": "I WONDER IF I'VE BEEN CHANGED IN THE NIGHT",
+        "spkID": "speaker_260",
+        "length": 43440
+    },
+    "260-123288-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0014.flac",
+        "words": "HANS STIRS NOT",
+        "spkID": "speaker_260",
+        "length": 28880
+    },
+    "1995-1826-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0006.flac",
+        "words": "BEEN LOOKING UP TOOMS COUNTY",
+        "spkID": "speaker_1995",
+        "length": 39281
+    },
+    "4507-16021-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0027.flac",
+        "words": "PHOENICIAN VERY GOOD",
+        "spkID": "speaker_4507",
+        "length": 31920
+    },
+    "1188-133604-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0035.flac",
+        "words": "THUS IN CHAUCER'S DREAM",
+        "spkID": "speaker_1188",
+        "length": 46800
+    },
+    "121-127105-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0009.flac",
+        "words": "SHE HAS BEEN DEAD THESE TWENTY YEARS",
+        "spkID": "speaker_121",
+        "length": 36640
+    },
+    "8455-210777-0043": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0043.flac",
+        "words": "BUT WHAT IS THE DELICATE MISSION I ASKED",
+        "spkID": "speaker_8455",
+        "length": 50320
+    },
+    "5683-32879-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32879/5683-32879-0025.flac",
+        "words": "THANK YOU DORCAS DEAR",
+        "spkID": "speaker_5683",
+        "length": 30480
+    },
+    "4507-16021-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0044.flac",
+        "words": "LOOK CLOSELY AT LIFE",
+        "spkID": "speaker_4507",
+        "length": 35040
+    },
+    "5105-28240-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/5105/28240/5105-28240-0010.flac",
+        "words": "CAPTAIN SERVADAC HASTENED TOWARDS HIM",
+        "spkID": "speaker_5105",
+        "length": 46960
+    },
+    "1580-141083-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141083/1580-141083-0022.flac",
+        "words": "I AM AFRAID THERE ARE NO SIGNS HERE SAID HE",
+        "spkID": "speaker_1580",
+        "length": 52720
+    },
+    "8555-284449-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284449/8555-284449-0014.flac",
+        "words": "THE FORMER BOOLOOROO GROANED",
+        "spkID": "speaker_8555",
+        "length": 34480
+    },
+    "260-123288-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0021.flac",
+        "words": "THE WAVES RISE ABOVE OUR HEADS",
+        "spkID": "speaker_260",
+        "length": 43360
+    },
+    "260-123286-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0010.flac",
+        "words": "SUNDAY AUGUST SIXTEENTH",
+        "spkID": "speaker_260",
+        "length": 41200
+    },
+    "1580-141084-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0028.flac",
+        "words": "THERE WAS NO MAN SIR",
+        "spkID": "speaker_1580",
+        "length": 42480
+    },
+    "7021-85628-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0024.flac",
+        "words": "ANDERS FACE GREW RED",
+        "spkID": "speaker_7021",
+        "length": 34640
+    },
+    "7176-92135-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0033.flac",
+        "words": "RELAPSES INTO SILENCE FOR THE REST OF THE EVENING",
+        "spkID": "speaker_7176",
+        "length": 35680
+    },
+    "2830-3979-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3979/2830-3979-0010.flac",
+        "words": "BUT THE ESSENCE OF LUTHER'S LECTURES IS THERE",
+        "spkID": "speaker_2830",
+        "length": 53760
+    },
+    "4507-16021-0054": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0054.flac",
+        "words": "THAT IS WHY WE CRY EDUCATION SCIENCE",
+        "spkID": "speaker_4507",
+        "length": 69040
+    },
+    "260-123440-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123440/260-123440-0014.flac",
+        "words": "AND I DECLARE IT'S TOO BAD THAT IT IS",
+        "spkID": "speaker_260",
+        "length": 61040
+    },
+    "260-123286-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0020.flac",
+        "words": "TUESDAY AUGUST EIGHTEENTH",
+        "spkID": "speaker_260",
+        "length": 48960
+    },
+    "7176-92135-0039": {
+        "file_path": "./data/LibriSpeech/test-clean/7176/92135/7176-92135-0039.flac",
+        "words": "TEA PLEASE MATTHEWS BUTLER IMPASSIVELY",
+        "spkID": "speaker_7176",
+        "length": 50000
+    },
+    "237-134500-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0019.flac",
+        "words": "HE DROPPED A HANDFUL INTO HER LAP",
+        "spkID": "speaker_237",
+        "length": 45760
+    },
+    "2830-3979-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3979/2830-3979-0005.flac",
+        "words": "THE WORK HAD TO BE CONDENSED",
+        "spkID": "speaker_2830",
+        "length": 33680
+    },
+    "8463-294828-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294828/8463-294828-0025.flac",
+        "words": "BUT WE'RE GOING JUST THE SAME",
+        "spkID": "speaker_8463",
+        "length": 31840
+    },
+    "4507-16021-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0014.flac",
+        "words": "NOW WHEN HAS HORROR EVER EXCLUDED STUDY",
+        "spkID": "speaker_4507",
+        "length": 97840
+    },
+    "1995-1837-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0008.flac",
+        "words": "WHERE WAS THE USE OF IMAGINING",
+        "spkID": "speaker_1995",
+        "length": 31280
+    },
+    "237-134500-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/237/134500/237-134500-0020.flac",
+        "words": "YES DON'T YOU",
+        "spkID": "speaker_237",
+        "length": 34880
+    },
+    "5683-32866-0022": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0022.flac",
+        "words": "ITS CURTAINS WERE OF THICK AND FADED TAPESTRY",
+        "spkID": "speaker_5683",
+        "length": 51040
+    },
+    "4446-2275-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0027.flac",
+        "words": "HE MOVED UNEASILY AND HIS CHAIR CREAKED",
+        "spkID": "speaker_4446",
+        "length": 47920
+    },
+    "4507-16021-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0008.flac",
+        "words": "WHO DENIES THAT OF COURSE IT DOES",
+        "spkID": "speaker_4507",
+        "length": 57440
+    },
+    "2830-3980-0064": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0064.flac",
+        "words": "HOW MAY WE OBTAIN REMISSION OF OUR SINS",
+        "spkID": "speaker_2830",
+        "length": 46080
+    },
+    "1580-141084-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0013.flac",
+        "words": "HE IS THE ONE WITH THE WORST RECORD",
+        "spkID": "speaker_1580",
+        "length": 35600
+    },
+    "908-157963-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/908/157963/908-157963-0001.flac",
+        "words": "O LIFE OF THIS OUR SPRING",
+        "spkID": "speaker_908",
+        "length": 46160
+    },
+    "1089-134691-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134691/1089-134691-0020.flac",
+        "words": "HELLO STEPHANOS HERE COMES THE DEDALUS",
+        "spkID": "speaker_1089",
+        "length": 63840
+    },
+    "61-70968-0062": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0062.flac",
+        "words": "AY AND SHOW YOU SOME PRETTY TRICKS",
+        "spkID": "speaker_61",
+        "length": 40880
+    },
+    "672-122797-0035": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0035.flac",
+        "words": "BUT I SHALL TELL ONLY ONE STORY",
+        "spkID": "speaker_672",
+        "length": 46400
+    },
+    "1089-134686-0027": {
+        "file_path": "./data/LibriSpeech/test-clean/1089/134686/1089-134686-0027.flac",
+        "words": "HE CLASPED HIS HANDS ON THE DESK AND SAID",
+        "spkID": "speaker_1089",
+        "length": 43360
+    },
+    "61-70970-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0010.flac",
+        "words": "DISMISS YOUR SQUIRE ROBIN AND BID ME GOOD E E N",
+        "spkID": "speaker_61",
+        "length": 48720
+    },
+    "7127-75947-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0017.flac",
+        "words": "WHAT ALREADY HERE THEY SAID TO HER",
+        "spkID": "speaker_7127",
+        "length": 42640
+    },
+    "1284-1181-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1181/1284-1181-0018.flac",
+        "words": "IT TRULY IS ASSERTED THE MAGICIAN",
+        "spkID": "speaker_1284",
+        "length": 50560
+    },
+    "5142-33396-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0016.flac",
+        "words": "SO WE HARRIED THE COAST OF NORWAY",
+        "spkID": "speaker_5142",
+        "length": 34640
+    },
+    "7127-75947-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0030.flac",
+        "words": "SHE WAS HERE JUST NOW SAID THE COUNT",
+        "spkID": "speaker_7127",
+        "length": 44160
+    },
+    "4446-2275-0024": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0024.flac",
+        "words": "SHE PRESSED HIS HAND GENTLY IN GRATITUDE",
+        "spkID": "speaker_4446",
+        "length": 38320
+    },
+    "2830-3980-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0021.flac",
+        "words": "AND GOD THE FATHER WHO RAISED HIM FROM THE DEAD",
+        "spkID": "speaker_2830",
+        "length": 46560
+    },
+    "4507-16021-0040": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0040.flac",
+        "words": "ONE THINKS ONE HEARS HYDRAS TALKING",
+        "spkID": "speaker_4507",
+        "length": 62800
+    },
+    "61-70968-0018": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0018.flac",
+        "words": "SO I DID PUSH THIS FELLOW",
+        "spkID": "speaker_61",
+        "length": 38480
+    },
+    "4446-2275-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0009.flac",
+        "words": "I GOT IN ABOUT TEN MINUTES AGO",
+        "spkID": "speaker_4446",
+        "length": 33440
+    },
+    "5142-33396-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0017.flac",
+        "words": "WE ATE AT MANY MEN'S TABLES UNINVITED",
+        "spkID": "speaker_5142",
+        "length": 42160
+    },
+    "8555-284447-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/284447/8555-284447-0012.flac",
+        "words": "THE CAPTAIN SHOOK HIS HEAD",
+        "spkID": "speaker_8555",
+        "length": 36400
+    },
+    "1995-1837-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1837/1995-1837-0028.flac",
+        "words": "THE CHAIR WAS EMPTY BUT HE KNEW",
+        "spkID": "speaker_1995",
+        "length": 37440
+    },
+    "3575-170457-0052": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0052.flac",
+        "words": "SHE HAD ANOTHER WEIGHT ON HER MIND THIS CHRISTMAS",
+        "spkID": "speaker_3575",
+        "length": 48000
+    },
+    "1221-135767-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135767/1221-135767-0008.flac",
+        "words": "COME THEREFORE AND LET US FLING MUD AT THEM",
+        "spkID": "speaker_1221",
+        "length": 49520
+    },
+    "6930-81414-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0021.flac",
+        "words": "A TERRIBLE THOUGHT FLASHED INTO MY MIND",
+        "spkID": "speaker_6930",
+        "length": 51600
+    },
+    "121-127105-0033": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0033.flac",
+        "words": "IT WAS THE BEAUTY OF IT",
+        "spkID": "speaker_121",
+        "length": 37680
+    },
+    "4446-2273-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0017.flac",
+        "words": "HOW JOLLY IT WAS BEING YOUNG HILDA",
+        "spkID": "speaker_4446",
+        "length": 43840
+    },
+    "1221-135767-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135767/1221-135767-0020.flac",
+        "words": "IN TRUTH SHE SEEMED ABSOLUTELY HIDDEN BEHIND IT",
+        "spkID": "speaker_1221",
+        "length": 53520
+    },
+    "6930-81414-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0025.flac",
+        "words": "MY POSITION WAS TOO TERRIBLE",
+        "spkID": "speaker_6930",
+        "length": 40480
+    },
+    "61-70968-0031": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0031.flac",
+        "words": "SILENCE YOU KNAVE CRIED MONTFICHET",
+        "spkID": "speaker_61",
+        "length": 46800
+    },
+    "4970-29095-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0011.flac",
+        "words": "DOES THEE THINK THEE COULD STAND IT SIX MONTHS",
+        "spkID": "speaker_4970",
+        "length": 53680
+    },
+    "4446-2271-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2271/4446-2271-0002.flac",
+        "words": "IT'S TREMENDOUSLY WELL PUT ON TOO",
+        "spkID": "speaker_4446",
+        "length": 38160
+    },
+    "5142-33396-0029": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0029.flac",
+        "words": "BRING IN THE TABLE WE ARE HUNGRY",
+        "spkID": "speaker_5142",
+        "length": 34160
+    },
+    "1221-135766-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/1221/135766/1221-135766-0015.flac",
+        "words": "IF SPOKEN TO SHE WOULD NOT SPEAK AGAIN",
+        "spkID": "speaker_1221",
+        "length": 42080
+    },
+    "7021-79759-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/79759/7021-79759-0001.flac",
+        "words": "THAT IS COMPARATIVELY NOTHING",
+        "spkID": "speaker_7021",
+        "length": 39680
+    },
+    "61-70970-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0006.flac",
+        "words": "NEVER THAT SIR HE HAD SAID",
+        "spkID": "speaker_61",
+        "length": 37360
+    },
+    "7127-75946-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75946/7127-75946-0021.flac",
+        "words": "YES SIRE AND READY DRESSED FOR THE BALLET",
+        "spkID": "speaker_7127",
+        "length": 53680
+    },
+    "6930-75918-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0007.flac",
+        "words": "YOU WILL BE FRANK WITH ME I ALWAYS AM",
+        "spkID": "speaker_6930",
+        "length": 53040
+    },
+    "7021-79730-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/79730/7021-79730-0000.flac",
+        "words": "THE THREE MODES OF MANAGEMENT",
+        "spkID": "speaker_7021",
+        "length": 39040
+    },
+    "5683-32865-0002": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0002.flac",
+        "words": "HE HAD HIS HAND UPON LAKE'S SHOULDER",
+        "spkID": "speaker_5683",
+        "length": 44480
+    },
+    "6930-81414-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0003.flac",
+        "words": "NO SOUND BROKE THE STILLNESS OF THE NIGHT",
+        "spkID": "speaker_6930",
+        "length": 52720
+    },
+    "61-70968-0052": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0052.flac",
+        "words": "BUT WHO IS THIS FELLOW PLUCKING AT YOUR SLEEVE",
+        "spkID": "speaker_61",
+        "length": 42400
+    },
+    "7021-79740-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/79740/7021-79740-0012.flac",
+        "words": "SAID SHE POINTING TO THE PLAYTHINGS SEE",
+        "spkID": "speaker_7021",
+        "length": 52160
+    },
+    "5683-32866-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32866/5683-32866-0001.flac",
+        "words": "AND HE ADDED SOMETHING STILL LESS COMPLIMENTARY",
+        "spkID": "speaker_5683",
+        "length": 55520
+    },
+    "8555-292519-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/8555/292519/8555-292519-0015.flac",
+        "words": "HE HAD BROKEN INTO HER COURTYARD",
+        "spkID": "speaker_8555",
+        "length": 45600
+    },
+    "1995-1826-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0004.flac",
+        "words": "MIGHT LEARN SOMETHING USEFUL DOWN THERE",
+        "spkID": "speaker_1995",
+        "length": 48560
+    },
+    "260-123288-0012": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123288/260-123288-0012.flac",
+        "words": "THAT WILL BE SAFEST NO NO NEVER",
+        "spkID": "speaker_260",
+        "length": 56720
+    },
+    "2094-142345-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0004.flac",
+        "words": "AND WHAT THROUGH THE LEFT HAND WINDOW",
+        "spkID": "speaker_2094",
+        "length": 42240
+    },
+    "121-123852-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/121/123852/121-123852-0001.flac",
+        "words": "AY ME",
+        "spkID": "speaker_121",
+        "length": 29920
+    },
+    "4970-29095-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0010.flac",
+        "words": "THEE STUDY MEDICINE",
+        "spkID": "speaker_4970",
+        "length": 42240
+    },
+    "6829-68771-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68771/6829-68771-0026.flac",
+        "words": "ELIZA PARSONS SHOOK HER HEAD",
+        "spkID": "speaker_6829",
+        "length": 34000
+    },
+    "121-121726-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0008.flac",
+        "words": "HOSE MAN'S EXCUSE FOR WETTING THE WALK",
+        "spkID": "speaker_121",
+        "length": 79840
+    },
+    "5142-33396-0026": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0026.flac",
+        "words": "MY MEN LAUGHED YES A STINGY HOST",
+        "spkID": "speaker_5142",
+        "length": 49200
+    },
+    "61-70968-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0007.flac",
+        "words": "SISTER NELL DO YOU HEAR THESE MARVELS",
+        "spkID": "speaker_61",
+        "length": 56800
+    },
+    "4507-16021-0050": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0050.flac",
+        "words": "AND YOU BELONG TO THAT SMALL CLASS WHO ARE HAPPY",
+        "spkID": "speaker_4507",
+        "length": 62320
+    },
+    "1580-141084-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0006.flac",
+        "words": "YOU DON'T SEEM TO REALIZE THE POSITION",
+        "spkID": "speaker_1580",
+        "length": 34160
+    },
+    "8463-294825-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0019.flac",
+        "words": "MILLIMETER ROUGHLY ONE TWENTY FIFTH OF AN INCH",
+        "spkID": "speaker_8463",
+        "length": 54240
+    },
+    "6930-75918-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/75918/6930-75918-0011.flac",
+        "words": "I AM CONVINCED OF WHAT I SAY SAID THE COUNT",
+        "spkID": "speaker_6930",
+        "length": 51120
+    },
+    "61-70970-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0009.flac",
+        "words": "TIS LATE AND I GO MYSELF WITHIN A SHORT SPACE",
+        "spkID": "speaker_61",
+        "length": 54480
+    },
+    "7021-85628-0014": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0014.flac",
+        "words": "HE ONLY SHOOK HIS HEAD",
+        "spkID": "speaker_7021",
+        "length": 36720
+    },
+    "1188-133604-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/1188/133604/1188-133604-0006.flac",
+        "words": "THEN HE COMES TO THE BEAK OF IT",
+        "spkID": "speaker_1188",
+        "length": 38400
+    },
+    "7127-75947-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0004.flac",
+        "words": "EXPLAIN YOURSELF",
+        "spkID": "speaker_7127",
+        "length": 30480
+    },
+    "2961-961-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/2961/961/2961-961-0005.flac",
+        "words": "SOME POEMS OF SOLON WERE RECITED BY THE BOYS",
+        "spkID": "speaker_2961",
+        "length": 60400
+    },
+    "6829-68769-0044": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0044.flac",
+        "words": "IT HAS COST ME TWICE SIXTY DOLLARS IN ANNOYANCE",
+        "spkID": "speaker_6829",
+        "length": 51600
+    },
+    "61-70970-0005": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70970/61-70970-0005.flac",
+        "words": "THE LAD HAD CHECKED HIM THEN",
+        "spkID": "speaker_61",
+        "length": 32320
+    },
+    "2830-3980-0042": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0042.flac",
+        "words": "THE WORLD BRANDS THIS A PERNICIOUS DOCTRINE",
+        "spkID": "speaker_2830",
+        "length": 48320
+    },
+    "7021-85628-0000": {
+        "file_path": "./data/LibriSpeech/test-clean/7021/85628/7021-85628-0000.flac",
+        "words": "BUT ANDERS CARED NOTHING ABOUT THAT",
+        "spkID": "speaker_7021",
+        "length": 48320
+    },
+    "8455-210777-0047": {
+        "file_path": "./data/LibriSpeech/test-clean/8455/210777/8455-210777-0047.flac",
+        "words": "YOU PROPOSE TO KIDNAP ME I SAID",
+        "spkID": "speaker_8455",
+        "length": 40640
+    },
+    "8463-294825-0017": {
+        "file_path": "./data/LibriSpeech/test-clean/8463/294825/8463-294825-0017.flac",
+        "words": "LITER ROUGHLY ONE QUART",
+        "spkID": "speaker_8463",
+        "length": 37600
+    },
+    "6930-81414-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/6930/81414/6930-81414-0016.flac",
+        "words": "BUT THAT IS KAFFAR'S KNIFE",
+        "spkID": "speaker_6930",
+        "length": 34560
+    },
+    "1284-1180-0013": {
+        "file_path": "./data/LibriSpeech/test-clean/1284/1180/1284-1180-0013.flac",
+        "words": "AND YOU MUST BE OJO THE UNLUCKY SHE ADDED",
+        "spkID": "speaker_1284",
+        "length": 59280
+    },
+    "4507-16021-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0019.flac",
+        "words": "IT IS THE LANGUAGE OF WRETCHEDNESS",
+        "spkID": "speaker_4507",
+        "length": 46880
+    },
+    "4446-2275-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0011.flac",
+        "words": "BARTLEY BENT LOWER OVER THE FIRE",
+        "spkID": "speaker_4446",
+        "length": 38960
+    },
+    "121-127105-0030": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0030.flac",
+        "words": "I DON'T ANTICIPATE",
+        "spkID": "speaker_121",
+        "length": 34800
+    },
+    "672-122797-0009": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0009.flac",
+        "words": "HAVE YOU NOT MET THEM ANYWHERE",
+        "spkID": "speaker_672",
+        "length": 44240
+    },
+    "4446-2275-0015": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0015.flac",
+        "words": "HE PULLED UP A WINDOW AS IF THE AIR WERE HEAVY",
+        "spkID": "speaker_4446",
+        "length": 47680
+    },
+    "2830-3980-0046": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0046.flac",
+        "words": "WAS IT NOT ENOUGH TO SAY FROM GOD THE FATHER",
+        "spkID": "speaker_2830",
+        "length": 45440
+    },
+    "1580-141084-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/1580/141084/1580-141084-0007.flac",
+        "words": "TO MORROW IS THE EXAMINATION",
+        "spkID": "speaker_1580",
+        "length": 32320
+    },
+    "121-127105-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/121/127105/121-127105-0010.flac",
+        "words": "SHE SENT ME THE PAGES IN QUESTION BEFORE SHE DIED",
+        "spkID": "speaker_121",
+        "length": 45600
+    },
+    "1995-1826-0003": {
+        "file_path": "./data/LibriSpeech/test-clean/1995/1826/1995-1826-0003.flac",
+        "words": "BETTER GO HE HAD COUNSELLED SENTENTIOUSLY",
+        "spkID": "speaker_1995",
+        "length": 49440
+    },
+    "4446-2273-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0020.flac",
+        "words": "I THINK WE DID SHE ANSWERED DEMURELY",
+        "spkID": "speaker_4446",
+        "length": 43840
+    },
+    "6829-68769-0019": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68769/6829-68769-0019.flac",
+        "words": "SORRY WE HAVEN'T ANY RECEPTION ROOM IN THE JAIL",
+        "spkID": "speaker_6829",
+        "length": 42640
+    },
+    "4507-16021-0028": {
+        "file_path": "./data/LibriSpeech/test-clean/4507/16021/4507-16021-0028.flac",
+        "words": "EVEN DIALECT LET THAT PASS",
+        "spkID": "speaker_4507",
+        "length": 52240
+    },
+    "4970-29095-0025": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29095/4970-29095-0025.flac",
+        "words": "AND THEE WON'T GO WHY SHOULD I",
+        "spkID": "speaker_4970",
+        "length": 61280
+    },
+    "672-122797-0010": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0010.flac",
+        "words": "REJOICE IN THY GROWTH SAID THE SUNBEAMS",
+        "spkID": "speaker_672",
+        "length": 61040
+    },
+    "5683-32865-0016": {
+        "file_path": "./data/LibriSpeech/test-clean/5683/32865/5683-32865-0016.flac",
+        "words": "OH I KNOW THAT'S LORNE BRANDON",
+        "spkID": "speaker_5683",
+        "length": 48960
+    },
+    "6829-68771-0021": {
+        "file_path": "./data/LibriSpeech/test-clean/6829/68771/6829-68771-0021.flac",
+        "words": "BUT IT CAN'T BE PROTESTED THE GIRL",
+        "spkID": "speaker_6829",
+        "length": 41760
+    },
+    "61-70968-0034": {
+        "file_path": "./data/LibriSpeech/test-clean/61/70968/61-70968-0034.flac",
+        "words": "A MONTFICHET A MONTFICHET GAMEWELL TO THE RESCUE",
+        "spkID": "speaker_61",
+        "length": 67680
+    },
+    "4446-2275-0020": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0020.flac",
+        "words": "IT WAS MYSELF I WAS DEFYING HILDA",
+        "spkID": "speaker_4446",
+        "length": 43520
+    },
+    "4970-29093-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/4970/29093/4970-29093-0004.flac",
+        "words": "HE WAS UNABLE TO DECIDE EXACTLY WHAT IT SHOULD BE",
+        "spkID": "speaker_4970",
+        "length": 60000
+    },
+    "260-123286-0001": {
+        "file_path": "./data/LibriSpeech/test-clean/260/123286/260-123286-0001.flac",
+        "words": "THE HORIZON SEEMS EXTREMELY DISTANT",
+        "spkID": "speaker_260",
+        "length": 49120
+    },
+    "2830-3980-0058": {
+        "file_path": "./data/LibriSpeech/test-clean/2830/3980/2830-3980-0058.flac",
+        "words": "MOHAMMED ALSO SPEAKS HIGHLY OF CHRIST",
+        "spkID": "speaker_2830",
+        "length": 43040
+    },
+    "121-121726-0006": {
+        "file_path": "./data/LibriSpeech/test-clean/121/121726/121-121726-0006.flac",
+        "words": "HEREDITY THE CAUSE OF ALL OUR FAULTS",
+        "spkID": "speaker_121",
+        "length": 62320
+    },
+    "3575-170457-0049": {
+        "file_path": "./data/LibriSpeech/test-clean/3575/170457/3575-170457-0049.flac",
+        "words": "THIS DECISION WAS COMMUNICATED TO THE GIRLS",
+        "spkID": "speaker_3575",
+        "length": 43440
+    },
+    "5639-40744-0008": {
+        "file_path": "./data/LibriSpeech/test-clean/5639/40744/5639-40744-0008.flac",
+        "words": "WHO TOUCHES ME AM I IN BED",
+        "spkID": "speaker_5639",
+        "length": 35440
+    },
+    "672-122797-0051": {
+        "file_path": "./data/LibriSpeech/test-clean/672/122797/672-122797-0051.flac",
+        "words": "I AM BY NO MEANS OLD SAID THE FIR TREE",
+        "spkID": "speaker_672",
+        "length": 74640
+    },
+    "5142-33396-0050": {
+        "file_path": "./data/LibriSpeech/test-clean/5142/33396/5142-33396-0050.flac",
+        "words": "MAY YOU DRINK HEART'S EASE FROM IT FOR MANY YEARS",
+        "spkID": "speaker_5142",
+        "length": 46160
+    },
+    "2094-142345-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/2094/142345/2094-142345-0007.flac",
+        "words": "THE HISTORY OF THE HOUSE IS PLAIN NOW",
+        "spkID": "speaker_2094",
+        "length": 43200
+    },
+    "4446-2273-0007": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2273/4446-2273-0007.flac",
+        "words": "THOSE FELLOWS ARE ALL VERY LOYAL EVEN MAINHALL",
+        "spkID": "speaker_4446",
+        "length": 49520
+    },
+    "4446-2275-0004": {
+        "file_path": "./data/LibriSpeech/test-clean/4446/2275/4446-2275-0004.flac",
+        "words": "ALEXANDER DID NOT SIT DOWN",
+        "spkID": "speaker_4446",
+        "length": 33760
+    },
+    "7127-75947-0011": {
+        "file_path": "./data/LibriSpeech/test-clean/7127/75947/7127-75947-0011.flac",
+        "words": "REMAIN I IMPLORE YOU THE EVENING IS MOST LOVELY",
+        "spkID": "speaker_7127",
+        "length": 57920
+    }
+}

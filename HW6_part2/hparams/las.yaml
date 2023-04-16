@@ -1,0 +1,145 @@
+# Experiment params
+project: asr
+experiment: las
+save_root: ./save
+time_stamp: placehold
+save_folder: !ref <save_root>/<experiment>/<time_stamp>
+valid_wer_file: !ref <save_folder>/<valid_split>_wer.txt
+test_wer_file: !ref <save_folder>/<test_split>_wer.txt
+
+# Training params
+n_epoch: 150
+batch_size: 8
+lr: 1.0e-3
+max_grad_norm: 5.0
+nonfinite_patience: 5
+
+# Feature params
+sample_rate: 16000
+n_fft: 2048
+hop_length: 512
+n_mfcc: 40
+n_mels: 128
+
+compute_features: !new:torchaudio.transforms.MFCC
+    sample_rate: !ref <sample_rate>
+    n_mfcc: !ref <n_mfcc>
+    melkwargs:
+        n_fft: !ref <n_fft>
+        hop_length: !ref <hop_length>
+
+# Tokenizer
+vocab: [
+    ' ', "'", 'A', 'B', 'C', 'D', 'E', 
+    'F', 'G', 'H', 'I', 'J', 'K', 'L', 
+    'M', 'N', 'O', 'P', 'Q', 'R', 'S', 
+    'T', 'U', 'V', 'W', 'X', 'Y', 'Z',
+    '/', # end of sequence
+    '#', # begin of sequence
+]
+vocab_size: 30
+eos_idx: 28
+bos_idx: 29
+ignore_idx: !ref <vocab_size>
+tokenizer: !new:models.tokenizer.SimpleTokenizer
+    vocab: !ref <vocab>
+    eos_idx: !ref <eos_idx>
+
+# Model params
+hidden_dim: 64
+max_decoding_length: 50
+
+# Model components
+listener: !new:models.las.DeepResidualLSTM
+    input_size: !ref <n_mfcc>
+    hidden_size: !ref <hidden_dim>
+    num_layers: 2
+    bidirectional: true
+    packed_input: false
+    
+embedder: !new:torch.nn.Embedding
+    # one additional character embedding for padded invalid labels
+    # during decoding, this entry might be used in teacher forcing
+    # during testing, this will never be generated
+    num_embeddings: !ref <vocab_size> + 1
+    embedding_dim: !ref <hidden_dim>
+    
+rnn: !new:models.las.DeepResidualLSTM
+    input_size: !ref <hidden_dim> + <n_mfcc>
+    hidden_size: !ref <hidden_dim>
+    num_layers: 2
+    bidirectional: false
+    packed_input: false
+
+phi: !new:torch.nn.Linear
+    in_features: !ref <hidden_dim> + <n_mfcc>
+    out_features: !ref <n_mfcc>
+  
+character_distribution: !new:models.las.MLP
+    input_dim: !ref <hidden_dim> + <n_mfcc> + <n_mfcc>
+    hidden_dim: !ref <hidden_dim>
+    # BOS and the padded invalid label will not be in the final output
+    output_dim: !ref <vocab_size> - 1
+
+normalizer: !new:speechbrain.processing.features.InputNormalization
+    norm_type: global
+    update_until_epoch: 4
+
+modules:
+    compute_features: !ref <compute_features>
+    normalizer: !ref <normalizer>
+    listener: !ref <listener>
+    embedder: !ref <embedder>
+    rnn: !ref <rnn>
+    phi: !ref <phi>
+    character_distribution: !ref <character_distribution>
+
+# Training loss
+loss_fn: !new:torch.nn.CrossEntropyLoss
+     ignore_index: !ref <ignore_idx>
+
+# Train/Valid/Test Splits
+train_split: 'las-train'
+train_manifest_path: !ref manifests/<train_split>.json
+n_train: null
+
+valid_split: 'las-train-val'
+valid_manifest_path: !ref manifests/<valid_split>.json
+n_valid: null
+
+test_split: 'las-test'
+test_manifest_path: !ref manifests/<test_split>.json
+n_test: null
+
+# Optimizer
+opt_class: !name:torch.optim.Adam
+    lr: !ref <lr>
+    
+# Dataloader options
+train_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+valid_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+test_dataloader_opts:
+    batch_size: !ref <batch_size>
+
+epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
+    limit: !ref <n_epoch>
+   
+# Checkpoint
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+   checkpoints_dir: !ref <save_folder>
+   recoverables:
+        normalizer: !ref <normalizer>
+        listener: !ref <listener>
+        embedder: !ref <embedder>
+        rnn: !ref <rnn>
+        phi: !ref <phi>
+        character_distribution: !ref <character_distribution>
+
+# WER and CER
+wer_computer: !name:speechbrain.utils.metric_stats.ErrorRateStats
+cer_computer: !name:speechbrain.utils.metric_stats.ErrorRateStats
+   split_tokens: True
